@@ -109,6 +109,7 @@ Adicionei dois tipos de dados para treinar modelos, dados de ECG, separados por 
 De forma complementar, também adicionei fotografias de raio-X toráxico, porém esses dados não foram classificados. Futuramente eles podem ser usados para treinamento e testes de diagnóstico automático de doenças cardiacas. 
 
 ECG: https://drive.google.com/drive/folders/1-UGVBYHkwZdjavQIxCNbEoTuVolGz6xN?usp=sharing
+
 XRAY: https://drive.google.com/drive/folders/1HtScbowRi4taAcFDUt7Ar7DO4kk1EkYU?usp=sharing
 
 
