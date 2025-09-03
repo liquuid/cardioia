@@ -1,9 +1,12 @@
 # CardioIA
 
+Nome: Fernando Henrique Rodrigues da Silva
+
+RA: rm559660
 
 # Dados numéricos
 
-Esses são dados de ECG, separados por tipos de doença e testes.
+Os dados numéricos, aproximadamente 1020 entradas, cobrem várias áreas de interesse para determinar a saúde de individuos de várias faixas etárias, histórico de doenças anteriores etc. Mais informações sobre os tipos de dado e sua legenda estão disponíveis na sessão abaixo.
 
 ## Legenda dos campos do banco de dados 
 
@@ -97,7 +100,13 @@ A prevalência de depressão foi de 11,1% na população do estudo. A análise m
 
 Esses textos possuem uma riqueza de dados que pode ser aproveitada por algoritmos de Processamento de Linguagem Natural (PNL),  além de permitir que a IA não apenas processe informações, mas também as entenda e as use para gerar valor. Um exemplo é a identificação de padrões de risco ao analisar os textos, a IA pode criar um perfil de risco detalhado.
 
+Os textos podem ser acessados no diretório assets do repositório. 
+
 # Dados visuais
+
+Adicionei dois tipos de dados para treinar modelos, dados de ECG, separados por tipos de doença, o que vai facilitar muito no treinamento do modelo, já que basta tratar as imagens e treinar o modelo.
+
+De forma complementar, também adicionei fotografias de raio-X toráxico, porém esses dados não foram classificados. Futuramente eles podem ser usados para treinamento e testes de diagnóstico automático de doenças cardiacas. 
 
 ECG: https://drive.google.com/drive/folders/1-UGVBYHkwZdjavQIxCNbEoTuVolGz6xN?usp=sharing
 XRAY: https://drive.google.com/drive/folders/1HtScbowRi4taAcFDUt7Ar7DO4kk1EkYU?usp=sharing
