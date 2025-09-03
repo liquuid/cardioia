@@ -1,0 +1,1180 @@
+Ciência & Saúde Coletiva
+cienciaesaudecoletiva.com.br
+ISSN 1413-8123. v.30, n.4
+
+DOI: 10.1590/1413-81232025304.08822023
+
+Associação entre saúde cardiovascular e depressão
+autorreferida: Pesquisa Nacional de Saúde de 2019
+
+1
+
+ARTIGO TEMÁTICO
+
+Association between cardiovascular health and self-reported
+depression: 2019 National Health Survey
+Asociación entre la salud cardiovascular y la depresión
+autoinformada: Encuesta Nacional de Salud 2019
+Maria Luiza Sady Prates Pinheiro (https://orcid.org/0000-0001-6199-7092) 1
+Luís Antônio Batista Tonaco (https://orcid.org/0000-0001-9660-2900) 2
+Mariana Santos Felisbino-Mendes (https://orcid.org/0000-0001-5321-5708) 2
+Jorge Gustavo Velásquez-Meléndez (https://orcid.org/0000-0001-8349-5042) 2
+Deborah Carvalho Malta (https://orcid.org/0000-0002-8214-5734) 2
+Alexandra Dias Moreira (https://orcid.org/0000-0002-4477-5241) 2
+Resumo O objetivo é analisar a associação entre o escore de saúde cardiovascular ideal e o diagnóstico autorreferido
+de depressão em adultos brasileiros. Estudo transversal, com 57.898 adultos brasileiros da Pesquisa Nacional de Saúde
+de 2019. Presença de depressão autorreferida. Exposições: escores comportamental (IMC, tabagismo, dieta, atividade
+física, ideal se ≥3 fatores ideais), biológico (tabagismo, dislipidemia, hipertensão e diabetes, ideal se ≥3 fatores ideais)
+e saúde cardiovascular (todos os fatores, ideal se ≥4 fatores ideais), com base no escore proposto pela American Heart
+Association. Foram categorizados em ruim/intermediário ou ideal. As associações foram testadas por meio de modelos
+de regressão logística ajustados por características sociodemográficas. A prevalência de depressão foi de 11,1%. Todos
+os escores classificados como ideais foram inversamente associados à depressão após ajustes por variáveis sociodemográficas (Escore comportamental ideal: OR: 0,58 [IC95%: 0,48-0,70], biológico ideal: OR: 0,48 [IC95%: 0,43-0,53] e
+cardiovascular ideal: OR: 0,53 [IC95%: 0,48-0,59]). O escore de saúde cardiovascular ideal associou-se inversamente
+ao diagnóstico autorreferido de depressão entre adultos brasileiros.
+Palavras-chave Depressão, Doenças Cardiovasculares, Fatores de Risco de Doenças Cardíacas, Inquéritos Epidemiológicos
+Abstract The aim is to analyze the association between the ideal cardiovascular health score and the self-reported
+diagnosis of depression in Brazilian adults. Cross-sectional study, with 57,898 Brazilian adults from the 2019 National
+Health Survey. Presence of self-reported depression. Exposures: behavioral scores (BMI, smoking, diet, physical activity,
+ideal if ≥3 ideal factors), biological (smoking, dyslipidemia, hypertension and diabetes, ideal if ≥3 ideal factors) and
+cardiovascular health (all factors, ideal if ≥4 ideal factors), based on the score proposed by the American Heart Association. They were categorized as poor/intermediate or ideal. Associations were tested using logistic regression models
+adjusted for sociodemographic characteristics. The prevalence of depression was 11.1%. All scores classified as ideal
+were inversely associated with depression after adjustments for sociodemographic variables (Ideal behavioral score: OR:
+0.58 [95%CI: 0.48-0.70], ideal biological score: OR: 0.48 [95%CI: 0.43-0.53] and ideal cardiovascular health: OR: 0.53
+[95%CI: 0.48-0.59]). The ideal cardiovascular health score was inversely associated with the self-reported diagnosis of
+depression among Brazilian adults.
+Key words Depression, Cardiovascular diseases, Risk Factors for Heart Disease, Epidemiological Surveys
+1
+Programa de PósGraduação em Enfermagem,
+Escola de Enfermagem,
+Universidade Federal de
+Minas Gerais (UFMG). Av.
+Prof. Alfredo Balena 190,
+Santa Efigênia. 30130-100
+Belo Horizonte MG Brasil.
+malusady@gmail.com
+2
+Departamento de
+Enfermagem Materno
+Infantil e Saúde Pública,
+Escola de Enfermagem,
+UFMG. Belo Horizonte MG
+Brasil.
+
+Resumen El objetivo es analizar la asociación entre el puntaje ideal de salud cardiovascular y el diagnóstico auto-reportado de depresión en adultos brasileños. Estudio transversal con 57.898 adultos brasileños de la Encuesta Nacional
+de Salud de 2019. Presencia de depresión autoreportada. Exposiciones: puntajes conductuales (IMC, tabaquismo, dieta,
+actividad física, ideal si ≥3 factores ideales), biológicas (tabaquismo, dislipidemia, hipertensión y diabetes, ideal si ≥3
+factores ideales) y salud cardiovascular (todos los factores, ideal si ≥4 factores ideales), basado en la puntuación propuesta por la American Heart Association. Fueron categorizados como pobres/intermedios o ideales. Las asociaciones
+se probaron utilizando modelos de regresión logística ajustados por características sociodemográficas. La prevalencia
+de depresión fue de 11,1%. Todos los puntajes clasificados como ideales se asociaron inversamente con la depresión tras
+los ajustes por variables sociodemográficas (puntaje conductual ideal: OR: 0,58 [IC95 %: 0,48-0,70], puntaje biológico
+ideal: OR: 0,48 [IC95 %: 0,43-0,53] y salud cardiovascular ideal: OR: 0,53 [IC95 %: 0,48-0,59]). El puntaje de salud
+cardiovascular ideal se asoció inversamente con el diagnóstico autoinformado de depresión entre los adultos brasileños.
+Palabras clave Depresión, Enfermedades cardiovasculares, Factores de riesgo de enfermedades cardíacas, Encuestas
+epidemiológicas
+Cien Saude Colet 2025; 30:e08822023
+
+Pinheiro MLSP et al
+
+2
+
+Introdução
+No Brasil, estima-se que os transtornos depressivos atinjam cerca de 16,3 milhões de pessoas1. De acordo com a Organização Mundial de
+Saúde (OMS), o número de casos de depressão
+aumentou 18% entre os anos de 2005 e 20152.
+Essa condição é considerada um transtorno
+multifatorial evitável, caracterizado por tristeza ou irritabilidade, desinteresse ou desprazer,
+dificuldades cognitivas, sentimento de culpa ou
+baixa autoestima, distúrbios do sono ou apetite
+e ideias recorrentes de morte3, o que pode ser
+pontual ou perdurar por dias, meses ou anos2.
+A depressão constitui-se um problema de
+saúde pública devido a sua alta prevalência,
+repercussões na saúde geral e o seu impacto
+psicossocial4. Em 2019, os transtornos depressivos levaram a um total global de mais de 125
+milhões de anos vividos com incapacidades
+(YLD), sendo considerada a décima terceira
+principal causa de anos de vida ajustados por
+incapacidade (DALYs)5.
+Os gastos globais equivalentes à produtividade perdida decorrente da ansiedade e depressão custam à economia global US$1 trilhão,
+estimando-se aumento para US$ 6 trilhões,
+aproximadamente, em 20306. As pessoas com
+transtornos mentais apresentam saúde física
+deficiente, por isso têm um risco maior de desenvolver doenças físicas, como doenças cardiometabólicas, obesidade, diabetes7, cardiopatias e
+problemas oncológicos8,9. Isso acarreta um elevado ônus social e econômico aos indivíduos,
+família, governo e sociedade.
+Estudos prévios revelaram uma associação bidirecional entre doença cardiovascular
+(DCV) e a depressão10,11. A depressão é fator de
+risco para a mortalidade e morbidade cardiovascular, tanto na população saudável quanto
+naqueles com doenças cardiovasculares já estabelecidas12,13, e a morbidade cardíaca é fator de
+risco para a depressão14. A correlação entre essas
+doenças pode ser explicada devido ao aumento dos marcadores inflamatórios14,15, visto que
+a inflamação é um componente presente tanto
+na depressão, quanto nas doenças cardiovasculares16. Isso se deve ao estressor mental, característica comum entre DCV e a depressão, que
+causa alteração no sistema nervoso autônomo e
+contribui para a inflamação12.
+Em 2010, a American Heart Association
+(AHA) propôs um escore de saúde cardiovascular para a redução da morbidade e da mortalidade por DCV. O escore contempla 7 fatores protetores para a saúde cardiovascular, os
+
+comportamentais (não fumar, praticar atividade física, ter Índice de Massa Corporal (IMC)
+abaixo de 25 kg/m² e alimentação adequada)
+e biológicos (não ter hipertensão arterial e ter
+níveis glicêmicos e de colesterol adequados). A
+AHA considera a presença desses fatores como
+uma métrica do status ideal de saúde cardiovascular17.
+Alguns estudos demonstram que a atividade
+física18,19, uma boa nutrição20, pressão arterial
+controlada21,22, a glicemia controlada23 e o não
+consumo de nicotina24 reduzem os sintomas de
+ansiedade e depressão. Por outro lado, a presença de depressão associa-se de forma independente à saúde cardiovascular ruim25-27.
+Dados do Estudo Longitudinal de Saúde do
+Adulto (Elsa-Brasil) demonstraram que o risco
+de depressão é triplicado na presença de saúde
+cardiovascular ruim10, considerando o escore
+proposto pela AHA17. Contudo, são escassas as
+publicações que relacionam esse escore com a
+ocorrência de depressão. Ressalta-se, ainda, que
+são necessárias publicações sobre essa associação em amostra representativa da população
+brasileira.
+Com base no exposto, objetivou-se avaliar
+a associação entre o escore de saúde cardiovascular ideal e o diagnóstico autorreferido de
+depressão em adultos brasileiros, com dados da
+Pesquisa Nacional de Saúde 2019.
+
+Métodos
+Trata-se de estudo transversal com dados da
+Pesquisa Nacional de Saúde (PNS) 2019, realizada pelo Ministério da Saúde em parceria com
+o Instituto Brasileiro de Geografia e Estatística
+(IBGE). A PNS é um inquérito nacional de base
+domiciliar contendo um questionário dividido
+em três partes: primeiro voltado para as características do domicílio, segundo para todos os
+moradores do domicílio e terceiro para um morador de cada domicílio selecionado que tenha
+15 anos ou mais. Para se calcular o tamanho da
+amostra da PNS, foram considerados os valores médios, as variâncias e os efeitos do plano
+amostral, e se supôs uma taxa de não resposta
+de 20%. Outras informações mais detalhadas
+sobre a PNS encontram-se descritas em publicação específica28.
+Para as análises do presente estudo, foram
+analisados os dados dos indivíduos de 18 anos
+ou mais, sendo considerado como desfecho a
+presença de depressão autorreferida (não/sim)
+e como exposição a saúde cardiovascular ide-
+
+3
+
+a comida preparada na hora e os alimentos industrializados, você acha que o seu consumo de
+sal é:”, tendo sido considerado o consumo superior a 5g de sal por dia aqueles que responderam
+“muito alto” e “alto”, e abaixo de 5g os que responderam “adequado”, “baixo” e “muito baixo”.
+Na atividade física foram considerados ideais os indivíduos que realizaram pelo menos 150
+minutos por semana de AF moderada ou pelo
+menos 75 minutos semanais de AF vigorosa33. O
+IMC ideal foi considerado menor ou igual a 25
+Kg/m²34, a partir de peso e altura autorreferidos,
+conforme proposto pela AHA17.
+A avaliação do tabagismo se deu pelas seguintes perguntas: “Atualmente, o(a) Sr(a) fuma
+algum produto do tabaco?” e “No passado, o(a)
+Sr(a) fumou algum produto do tabaco?”. Foram
+considerados na categoria ideal os indivíduos que não fumam atualmente e que relataram
+nunca terem fumado no passado.
+Foram realizadas análises bivariadas da associação entre os escore comportamental, biológico e cardiovascular, bem como os fatores
+que os compõem, e depressão autorreferida, por
+meio do teste qui-quadrado, considerando nível
+de significância de 5%. As associações entre os
+escores de saúde cardiovascular e a depressão
+foram testadas com modelos de regressão logística ajustados por sexo, idade, raça/cor, escolaridade e estado civil. Essas variáveis de ajuste
+foram consideradas por se associarem tanto
+à exposição (saúde cardiovascular) quanto ao
+desfecho (depressão), segundo estudos anteriores35-45, e segundo análises do presente estudo.
+No modelo final, consideram-se associados os
+escores que tiveram o valor de p<0,05. Todas as
+análises foram realizadas com o software Stata
+versão 12.0 e foram levados em conta os pesos
+amostrais e de pós-estratificação.
+O projeto da PNS foi aprovado na Comissão Nacional de Ética em Pesquisa (processo nº
+3.529.376, de 23 de agosto de 2019) e todos os
+entrevistados assinaram um Termo de Consentimento Livre e Esclarecido concordando participar da pesquisa no momento da entrevista.
+
+Resultados
+Neste estudo, foram analisados os dados de
+57.898 indivíduos, sendo que 52,5% (IC95%:
+51,8-53,2) eram do sexo feminino, 59,0%
+(IC95%: 58,2-59,8) tinham idade entre 18-49
+anos, 47,1% (IC95%: 46,3-48) se autodeclaram
+brancos, 40,2% (IC95%: 39,5-41) relatam que o
+ensino médio foi o curso mais elevado que fre-
+
+Ciência & Saúde Coletiva, 30(4):1-11, 2025
+
+al. Dos 90.846 moradores selecionados, foram
+excluídas as participantes grávidas, as que não
+sabiam que estavam grávidas, indivíduos com
+faixa etária <18 anos e aqueles que não tinham
+informações completas sobre todas as variáveis
+que compõem esse estudo.
+A saúde cardiovascular ideal foi analisada
+conforme proposto pela American Heart Association (AHA)17, a partir de escores autorreferidos, sendo três: 1) escore comportamental
+(IMC, tabagismo, dieta, atividade física [AF]);
+2) escore biológico (tabagismo, dislipidemia,
+hipertensão e diabetes), sendo que, neste estudo, os escores comportamental e biológico
+foram considerados ideais na presença de 3 ou
+mais fatores e ruim/intermediário na presença de menos de 3 fatores; e 3) escore de saúde
+cardiovascular, composto pelos 7 fatores (IMC,
+tabagismo, dieta, atividade física, dislipidemia,
+hipertensão e diabetes). Neste estudo, foi considerada saúde cardiovascular ideal a presença de
+4 ou mais fatores. Esse ponto de corte foi anteriormente associado à proteção cardiovascular
+e à redução da incidência de doença coronariana29,30. Ressalta-se que, conforme orientação da
+AHA, a variável tabagismo foi incluída tanto no
+escore comportamental, quanto no escore biológico, devido à importância de não fumar ou
+de cessar esse hábito para a promoção da saúde
+e prevenção de doenças cardiovasculares17. Dessa forma, as variáveis que compõem os escores
+foram classificadas como ruim/intermediário
+ou ideal. O escore de saúde cardiovascular autorreferido foi validado em relação ao aferido
+para a população brasileira em estudo prévio31.
+A presença de depressão foi autorreferida
+por meio da pergunta: “Algum médico ou profissional de saúde mental (como psiquiatra ou
+psicólogo) já lhe deu o diagnóstico de depressão?”. A hipertensão, diabetes e o colesterol
+foram avaliados por meio das perguntas, respectivamente: “Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?”;
+“Algum médico já lhe deu o diagnóstico de diabetes?” e “Algum médico já lhe deu o diagnóstico de colesterol alto?”, sendo “não” a resposta
+considerada ideal para todas as perguntas.
+A dieta foi avaliada a partir de quatro critérios: 5 porções de frutas, verduras e legumes
+(FLV) 5 vezes na semana; consumo de peixe 2
+vezes na semana; não consumir refrigerante e
+consumir menos de 5g de sal por dia32, sendo
+ideal a presença dos 4 fatores. Devido a PNS
+2019 não estimar a quantidade exata do consumo de sal na população brasileira, foi realizado
+adaptação da seguinte pergunta: “Considerando
+
+Pinheiro MLSP et al
+
+4
+
+quentou e 48,8% (IC95%: 48,08-49,7) eram casados (dados não mostrados).
+Dos adultos brasileiros, apresentaram o escore comportamental ideal 8,70% dos homens e
+10% das mulheres. Em relação ao escore biológico, 78,80% homens e 76,70% mulheres foram
+classificados como ideal. Já para o escore cardiovascular, 65,00% dos homens e 64,00% das
+mulheres foram classificados como ideal. Esses
+resultados, bem como a descrição dos componentes dos escores por sexo são descritos na Tabela 1, considerando, ainda, a estratificação por
+faixa etária.
+A prevalência de depressão foi 16,18%
+(IC95%: 15,42-16,98) em mulheres e 5,49%
+(IC95%: 5,03-5,99) em homens, 9,80% (IC95%:
+9,15-10,41) em indivíduos com idade entre 18 e
+49 anos, 13,20% (IC95%: 12,09-14,37) entre 50
+a 59 anos e 12,90% (IC95%: 11,98-13,90) com
+
+60 anos ou mais. Essas e demais prevalências de
+depressão por características sociodemográficas
+são descritas na Tabela 2.
+Observa-se que a prevalência de depressão
+foi maior nas categorias ruim/intermediário
+para todos os escores. A prevalência de depressão foi mais elevada em indivíduos com o escore
+na categoria ruim/intermediário, sendo observado 15,27% (IC95%: 14,43-16,14) no escore de
+saúde cardiovascular, enquanto 8,77% (IC95%:
+8,26-9,31) foram classificados na categoria ideal. No escore comportamental, 11,51% (IC95%:
+11,01-12,02) de prevalência de depressão foi
+observada na categoria ruim/intermediário e
+7,2% (IC95%: 6,12-8,46) na categoria ideal. No
+escore biológico, 17,51% (IC95%: 16,36-18,72)
+possuem depressão na categoria ruim/intermediário, e 9,27% (IC95%: 8,8-9,76) na categoria
+ideal (Tabela 2).
+
+Tabela 1. Prevalências das variáveis que compõem o escore de saúde cardiovascular e de depressão autorreferida
+entre adultos brasileiros segundo sexo e faixa etária. Pesquisa Nacional de Saúde, 2019.
+Variáveis
+Tabagismoa,b
+Ideal
+Dietaa,b
+Ideal
+Atividade Físicaa,b
+Ideal
+IMCa,b
+Ideal
+Escore Comportamental*a,b
+Ideal
+Pressão Arteriala,b
+Ideal
+Diabetesb
+Ideal
+Colesterola,b
+Ideal
+Escore Biológico**a,b
+Ideal
+Escore cardiovascular***b
+Ideal
+Depressãoa,b
+Sim
+
+Sexo
+Faixa etária
+Masculino Feminino 18 a 49 anos 50 a 59 anos
+(%)
+(%)
+(%)
+(%)
+
+60 e mais
+(%)
+
+58,15
+
+64,85
+
+69,80
+
+53,30
+
+47,00
+
+1,20
+
+2,35
+
+1,20
+
+2,20
+
+1,80
+
+35,20
+
+29,30
+
+36,15
+
+28,80
+
+24,00
+
+36,40
+
+40,85
+
+40,35
+
+34,30
+
+38,20
+
+8,70
+
+10,00
+
+11,60
+
+7,00
+
+5,30
+
+76,00
+
+72,85
+
+8,80
+
+6,45
+
+45,00
+
+92,00
+
+91,55
+
+9,70
+
+88,40
+
+79,40
+
+86,50
+
+81,00
+
+90,50
+
+77,00
+
+83,60
+
+78,80
+
+76,70
+
+91,00
+
+68,10
+
+5,00
+
+64,60
+
+63,70
+
+77,40
+
+52,35
+
+38,30
+
+5,50
+
+16,20
+
+9,80
+
+13,20
+
+12,90
+
+Notas: IC95%: Intervalo de Confiança de 95%; IMC: Índice de Massa Corporal. *3 ou mais fatores ideais (IMC, dieta, tabagismo,
+atividade física); **3 ou mais fatores ideais (tabagismo, dislipidemia, hipertensão e diabetes); ***4 ou mais fatores ideais
+(IMC, dieta, tabagismo, atividade física, dislipidemia, hipertensão e diabetes). aValor de p do teste qui-quadrado entre sexo e
+componentes do escore de saúde cardiovascular <0,05; bValor de p do teste qui-quadrado entre faixa etária e componentes do
+escore de saúde cardiovascular <0,05.
+Fonte: Autores.
+
+5
+
+Depressão
+Sim
+Valor
+de P*
+% (IC95%)
+Características sociodemográficas
+Sexo
+Masculino
+5,50 (5,03-5,99) <0,001
+Feminino
+16,20 (15,42-16,98) <0,001
+Faixa etária
+18-49 anos
+9,80 (9,15-10,41) <0,001
+50-59 anos
+13,20 (12,09-14,37) <0,001
+60 anos ou mais
+12,90 (11,98-13,90) <0,001
+Estado civil
+Casado
+10,70 (10,03-11,40) <0,001
+Divorciado/
+18,40 (16,50-20,40) <0,001
+separado
+Viúvo
+16,60 (14,90-18,41) <0,001
+Solteiro
+9,10 (8,43-9,85) <0,001
+Raça/cor
+Branca
+13,30 (12,52-14,07) <0,001
+Parda
+9,15 (8,57-9,75) <0,001
+Preta
+9,50 (8,29-10,78) <0,001
+7,90 (5,34-11,44) <0,001
+Outros
+(indígena/
+amarela)
+Escolaridade
+Fundamental
+12,10 (11,36-12,94) <0,001
+Médio
+9,30 (8,66-10,05) <0,001
+Superior
+12,60 (11,61-13,61) <0,001
+Escore de saúde cardiovascular e componentes
+Tabagismo
+Ruim/
+13,00 (12,24-13,85) p<0,001
+Intermediário
+Ideal
+9,90 (9,33-10,52) p<0,001
+Dieta
+Ruim/
+11,10 (10,62-11,57) p<0,58
+Intermediário
+Ideal
+12,00 (8,87-16,03) p<0,58
+Variáveis
+
+continua
+
+Variáveis
+Atividade Física
+Ruim/
+Intermediário
+Ideal
+IMC
+Ruim/
+Intermediário
+Ideal
+Escore
+Comportamental
+Ruim/
+Intermediário
+Ideal
+Pressão Arterial
+Ruim/
+Intermediário
+Ideal
+Diabetes
+Ruim/
+Intermediário
+Ideal
+Colesterol
+Ruim/
+Intermediário
+Ideal
+Escore Biológico
+Ruim/
+Intermediário
+Ideal
+Escore
+Cardiovascular
+Ruim/
+Intermediário
+Ideal
+
+Depressão
+Sim
+% (IC95%)
+
+Valor
+de P*
+
+11,90 (11,34-12,48) p<0,001
+9,40 (8,63-10,31) p<0,001
+12,10 (11,46-12,68) p<0,001
+10,00 (8,94-10,29) p<0,001
+
+11,50 (11,01-12,02) p<0,001
+7,20 (6,12-8,46) p<0,001
+15,90 (14,71-17,17) p<0,001
+9,45 (8,94-9,98) p<0,001
+14,55 (12,71-16,6) p<0,001
+10,80 (10,32-11,29) p<0,001
+19,55 (18,1-21,04) p<0,001
+9,45 (8,99-9,94) p<0,001
+17,50 (16,36-18,72) p<0,001
+9,30 (8,8-9,76) p<0,001
+
+15,30 (14,43-16,14) p<0,001
+8,80 (8,26-9,31) p<0,001
+
+Notas: IC95%: Intervalo de Confiança de 95%. *Análise
+bivariada por meio do teste qui-quadrado, considerando
+nível de significância de 5%.
+Fonte: Autores.
+
+Identificou-se que possuir escores de saúde
+cardiovascular ideais associa-se inversamente
+ao diagnóstico autorreferido de depressão entre
+adultos brasileiros nos modelos de regressão logística não ajustados. Além disso, a significância
+estatística se manteve após ajustes por variáveis
+sociodemográficas (Modelo 1), com os seguin-
+
+tes valores de OR de depressão autorreferida:
+0,53 (IC95%: 0,48-0,59) para escore cardiovascular ideal vs. intermediário/ruim, 0,58 (IC95%:
+0,48-0,70) para escore comportamental ideal vs.
+intermediário/ruim e 0,48 (IC95%: 0,43-0,54)
+para escore biológico ideal vs. intermediário/
+ruim (Tabela 3).
+
+Ciência & Saúde Coletiva, 30(4):1-11, 2025
+
+Tabela 2. Prevalência de depressão na população brasileira segundo as características sociodemográficas e o
+escore de saúde cardiovascular e seus componentes. Pesquisa Nacional de Saúde, 2019.
+
+Pinheiro MLSP et al
+
+6
+
+Tabela 3. Odds ratio (OR) não ajustados e ajustados de depressão em relação aos escores de saúde cardiovascular.
+Pesquisa Nacional de Saúde, 2019.
+
+Depressão
+Escore biológico ideal*** vs. Ruim
+Escore comportamental**** ideal vs. Ruim
+Escore cardiovascular ideal***** vs. Ruim
+
+Não ajustado
+OR (IC95%)
+0,48 (0,43-0,53)**
+0,58 (0,48-0,70)**
+0,53 (0,48-0,59)**
+
+Modelo 1
+OR (IC95%)
+0,48 (0,43-0,54)**
+0,58 (0,48-0,70)**
+0,53 (0,48-0,59)**
+
+Notas: IC95%: Intervalo de Confiança de 95%. Modelo 1: ajustado por sociodemográficas (sexo, raça, idade, escolaridade e
+estado civil). **p<0,01. ***Soma dos fatores: tabagismo, dislipidemia, hipertensão e diabetes, sendo ideal ≥3 fatores. ****Soma
+dos fatores: IMC, tabagismo, dieta e atividade física, sendo ideal ≥ 3 fatores. *****Soma dos 7 fatores, sendo ideal a presença ≥4
+fatores.
+Fonte: Autores.
+
+Discussão
+O estudo evidenciou que ter saúde cardiovascular ideal se associa inversamente ao diagnóstico autorreferido de depressão, em comparação
+a ter saúde cardiovascular intermediária/ruim.
+Essa relação foi significativa tanto para o componente biológico, quanto para o comportamental e de saúde cardiovascular, e se manteve
+mesmo após ajustes por variáveis sociodemográficas.
+Em relação às variáveis que compõem o escore de saúde cardiovascular e a análise da associação com o diagnóstico de depressão, sabe-se
+que alguns estudos já mostraram os efeitos do
+exercício físico na prevenção e no tratamento
+da depressão46,47, assim como os efeitos de uma
+boa nutrição20, da pressão arterial controlada24,25
+e da glicemia controlada26. Os componentes do
+escore de saúde cardiovascular apresentaram
+associações diretas e significativas dos comportamentos não saudáveis (tabagismo, inatividade
+física) com o diagnóstico de depressão48, corroborando com os achados desta pesquisa.
+Há evidências de que existe uma associação
+bidirecional entre DCV e a ocorrência de depressão. A associação desses transtornos surge
+como resultado de uma série de fatores compartilhados; mecanismos biológicos, comportamentais e fatores de risco10,14. Os indivíduos
+com DCV têm duas a três vezes mais chances
+de desenvolverem depressão49, e indivíduos com
+depressão têm maior probabilidade de desenvolver DCV49,50.
+Embora os estudos que abordem os mecanismos que envolvem o escore de saúde cardiovascular e o desenvolvimento da depressão
+sejam em geral escassos, existem estudos que
+abordam os mecanismos das variáveis isoladas
+do escore e a predisposição do desenvolvimento da depressão18,20-24,51. Um estudo evidenciou
+
+que a menor ingestão de FLV está relacionado
+aos sintomas depressivos52, devido a influência
+de minerais, vitaminas, aminoácidos, fitoquímicos e compostos antioxidantes, que em baixas concentrações interferem nos marcadores
+inflamatórios, no estresse oxidativo e na rigidez
+arterial53.
+Neste estudo, o consumo da dieta ideal foi
+baixo em relação a 2 indicadores importantes,
+FLV e peixe, que demonstraram baixa prevalência (7,23% e 24,44%, respectivamente) (dados
+não mostrados). Por isso, faz-se necessário políticas públicas que viabilizem um maior acesso
+à alimentação saudável e, assim, promovam o
+enfrentamento das doenças crônicas não transmissíveis (DCNTs) e contribuam para o alcance
+das metas do desenvolvimento sustentável54.
+Destaca-se que o escore de saúde cardiovascular ideal, composto por potenciais fatores
+de proteção para doenças cardiovasculares, e a
+associação inversa com depressão, encontrada
+neste estudo, é consistente com evidências nacionais e internacionais10,25,30. Um estudo prospectivo com 732 funcionárias finlandesas sem
+depressão inicialmente, avaliou as métricas ideais de saúde cardiovascular por meio de exame
+físico e laboratoriais, histórico médico e autoavaliação, e evidenciou maior risco de sintomas
+depressivos naquelas com saúde cardiovascular
+ruim/intermediária25.
+Em Dallas, no Texas, foi realizado um outro
+estudo epidemiológico prospectivo entre 1987 e
+1998 com 5.510 participantes do Aerobics Center Longitudinal Study. Os autores concluíram
+que os componentes ideais da saúde cardiovascular apresentam uma relação inversa com os
+sintomas depressivos, tendo sido significativa
+no caso de comportamentos de saúde cardiovascular, mas não para fatores de saúde cardiovascular, como o colesterol total, pressão arterial e glicemia de jejum30.
+
+7
+
+equidade e no protagonismo do sujeito envolvido no seu processo de produção de saúde.
+Entre as limitações do estudo, por se tratar
+de uma pesquisa baseada em autorrelato, os resultados estão sujeitos a limitações de memória
+e subdiagnóstico de hipertensão arterial, diabetes e dislipidemia, ou seja, uma parte dos entrevistados desconhecem a doença e não referem
+o diagnóstico62. Da mesma forma, infere-se que
+a prevalência do diagnóstico de depressão autorreferido pelos participantes pode estar subestimada, devido ser um indicador limitado para
+estimar a prevalência de depressão na população, que preferencialmente deve ser medida por
+meio de instrumento diagnóstico padronizado e
+validado ou avaliação clínica55.
+Além disso, na PNS 2019 o consumo do sal
+não foi aferido por meio da relação sódio/creatinina em amostra de urina casual, mas através
+do autorrelato do participante, o que pode estar
+subestimada a sua prevalência. 80,59% relataram consumir pouco sal, entretanto, estudos de
+dados laboratoriais da PNS 2013 estimaram um
+consumo médio de 9,34 g de sal por dia, no qual
+95% da população adulta apresentaram consumo excessivo de sal63.
+Neste estudo, na composição do escore de
+saúde cardiovascular, utilizamos para IMC
+ideal o ponto de corte de <25 kg/m², conforme recomendado pela AHA17 e utilizado em
+publicações nacionais e internacionais10,64. Por
+outro lado, existe a recomendação clínica de
+se considerar um ponto de corte diferenciado
+para idosos, considerando eutróficos aqueles
+com IMC <27 kg/m², pelo fato de a composição
+corporal do idoso ser diferente dos adultos, associada ao processo de envelhecimento65,66. Em
+análise de sensibilidade, a fim de testar possíveis
+impactos de um ponto de corte diferenciado
+para indivíduos idosos na determinação do escore de saúde cardiovascular e em sua relação
+com depressão, foi criado um escore de saúde
+cardiovascular considerando IMC ideal menor
+que 27 kg/m² para pessoas com 60 anos ou mais
+e menor que 25 kg/m² para indivíduos com menos de 60 anos. Em seguida, testou-se o modelo
+de regressão logística entre esse novo escore de
+saúde cardiovascular e depressão autorreferida,
+obtendo um OR ajustado por variáveis sociodemográficas de 0,56 (IC95%: 0,51-0,62) (dados
+não mostrados). Destaca-se que o OR ajustado, considerando o IMC ideal abaixo de 25 kg/
+m² para toda a população, foi de 0,53 (IC95%:
+0,48-0,59), conforme demonstrado neste estudo. Verifica-se, portanto, uma diferença mínima
+nos OR em termos de magnitude, mantendo o
+
+Ciência & Saúde Coletiva, 30(4):1-11, 2025
+
+Adicionalmente, em concordância com os
+achados deste estudo, o Elsa-Brasil, investigação
+multicêntrica do tipo coorte com 15.105 servidores públicos ativos ou aposentados, de 35 a 74
+anos, mostrou que a saúde cardiovascular deficiente antecede o desenvolvimento da depressão. Além disso, adultos sem o diagnóstico de
+depressão foram acompanhados em média por
+3 anos e 8 meses, e evidenciou-se que a saúde
+cardiovascular deficiente triplicou o risco de depressão10.
+Ressalta-se que a depressão é uma das condições que mais contribuem para a carga global das doenças relacionadas à saúde mental no
+mundo55, apesar do seu subdiagnóstico56. Devido à alta prevalência, repercussões na saúde geral e impacto psicossocial, constituem um grave
+problema de saúde pública57.
+Na atualidade, a prevalência dos hábitos de
+vida não saudáveis e de sintomas depressivos
+podem estar aumentados em relação ao presente estudo. Além das mudanças nos estilos
+de vida, quanto ao consumo de tabaco e bebidas alcoólicas, alimentação e atividade física
+no período de restrição social consequentes à
+pandemia de COVID-19, estudos apontam o
+aumento do sentimento de tristeza, ansiedade
+e nervosismo, além de problemas relacionados
+ao sono49,58. Somente no primeiro ano de pandemia, a ansiedade e a depressão aumentaram
+mais de 25%32.
+No Brasil, o Sistema Único de Saúde (SUS)
+atende cerca de 190 milhões de pessoas, sendo
+que 71% delas têm exclusivamente assistência à
+saúde pela rede pública59. A Atenção Primária à
+Saúde (APS), primeiro nível da Rede de Atenção
+à Saúde e porta de entrada preferencial do cidadão aos serviços de saúde do SUS, é um espaço
+privilegiado para acolher o indivíduo e trabalhar ações de prevenção e controle dos transtornos mentais, que visem à promoção e proteção
+da saúde, prevenção de agravos, diagnóstico e
+tratamento e ações de reabilitação no âmbito
+individual e coletivo60. Apesar disso, é grande
+a lacuna entre a necessidade de tratamento de
+transtornos mentais e a oferta de cuidado56.
+A saúde mental não está dissociada da saúde
+geral, por isso, reconhecer que as demandas de
+saúde mental estão presentes em diversas queixas relatadas pelos usuários dos serviços de saúde são fundamentais61. Salienta-se que estimular
+mudanças no estilo de vida e redução dos fatores de risco são intervenções úteis para a prevenção de agravos mentais e esse estímulo deve
+ser pactuado entre os usuários e os profissionais
+de saúde18,20-24, sempre pautado no princípio da
+
+Pinheiro MLSP et al
+
+8
+
+sentido e a significância da associação. Logo,
+optou-se por manter o ponto de corte 25kg/m2
+para a população geral para sustentar a comparabilidade dos achados com a literatura.
+O presente estudo avança ao fazer referência a uma amostra representativa da população
+brasileira na avaliação da associação da saúde
+cardiovascular com depressão autorreferida.
+Ressalta-se, ainda, a robustez e o rigor metodológico da PNS, que configura a importância
+destes achados para enfatizar programas e políticas públicas direcionadas ao cuidado integral
+aos usuários dos serviços de saúde, o qual deve
+englobar ações interprofissionais direcionadas
+aos fatores modificáveis do escore.
+
+Colaboradores
+Todos os autores trabalharam na concepção e
+no delineamento do estudo, na análise dos dados, na redação e revisão crítica do artigo e na
+aprovação da versão final a ser publicada.
+
+Conclusão
+A dimensão do escore de saúde cardiovascular
+ideal associou-se inversamente com o diagnóstico autorreferido de depressão entre adultos
+brasileiros. Nesse contexto, considera-se que a
+utilização deste escore, na prática clínica dos
+profissionais de saúde, poderá contribuir para
+auxiliar na conscientização sobre a importância
+de hábitos de vida saudáveis, que visem promover a saúde e prevenir agravos. Ademais, a
+implementação da avaliação do escore pode
+contribuir para a atenção integral à saúde individual e coletiva, por meio de intervenções que
+promovam a prevenção de agravos, investigação
+e rastreamento de condições crônicas.
+
+9
+
+1.
+
+2.
+3.
+4.
+
+5.
+
+6.
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+12.
+
+13.
+
+Instituto Brasileiro de Geografia e Estatística (IBGE).
+Pesquisa Nacional de Saúde 2019: percepção do estado de saúde, estilos de vida, doenças crônicas e saúde
+bucal. Rio de Janeiro: IBGE; 2021.
+World Health Organization (WHO). Depression and
+Other Common Mental Disorders: Global Health Estimates. Geneva: WHO, 2017.
+World Health Organization (WHO). Preventing
+suicide: a community engagement toolkit. Geneva:
+WHO; 2018.
+Ferrari AJ, Charlson FJ, Norman RE, Patten SB, Freedman G, Murray CJ, Vos T, Whiteford HA. Burden
+of depressive disorders by country, sex, age, and
+year: findings from the global burden of disease study 2010. PLoS Med 2013; 10(11):e1001547.
+GBD 2019 Mental Disorders Collaborators. Global,
+regional, and national burden of 12 mental disorders
+in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Psychiatry 2022; 9(2):137-150.
+The Lancet Global Health. Mental health matters.
+Lancet Glob Health 2020; 8(11):e1352.
+Firth J, Siddiqi N, Koyanagi A, Siskind D, Rosenbaum S, Galletly C, Allan S, Caneo C, Carney R,
+Carvalho AF, Chatterton ML, Correll CU, Curtis J,
+Gaughran F, Heald A, Hoare E, Jackson SE, Kisely
+S, Lovell K, Maj M, McGorry PD, Mihalopoulos C,
+Myles H, O’Donoghue B, Pillinger T, Sarris J, Schuch FB, Shiers D, Smith L, Solmi M, Suetani S, Taylor
+J, Teasdale SB, Thornicroft G, Torous J, Usherwood
+T, Vancampfort D, Veronese N, Ward PB, Yung AR,
+Killackey E, Stubbs B. The Lancet Psychiatry Commission: a blueprint for protecting physical health in
+people with mental illness. Lancet Psychiatry 2019;
+6(8):675-712.
+Boing AF, Melo GR, Boing AC, Moretti-Pires RO,
+Peres KG, Peres MA. Associação entre depressão e
+doenças crônicas: um estudo populacional. Rev Saude Publica 2012; 46(4):617-623.
+Lopes CS, Hellwig N, Silva GA, Menezes PR. Inequities in access to depression treatment: results of the
+Brazilian National Health Survey - PNS. Int J Equity
+Health 2016; 15(1):154.
+Brunoni AR, Szlejf C, Suemoto CK, Santos IS, Goulart AC, Viana MC, Koyanagi A, Barreto SM, Moreno AB, Carvalho AF, Lange S, Griep RH, Lotufo
+PA, Benseñor IM. Association between ideal cardiovascular health and depression incidence: a longitudinal analysis of ELSA-Brasil. Acta Psychiatr Scand
+2019; 140(6):552-562.
+Halaris A. Inflammation-Associated Co-morbidity
+Between Depression and Cardiovascular Disease.
+Curr Top Behav Neurosci. 2017; 31:45-70.
+Barth J, Schumacher M, Herrmann-Lingen C. Depression as a risk factor for mortality in patients with
+coronary heart disease: a meta-analysis. Psychosom
+Med 2004; 66(6):802-813.
+Almas A, Forsell Y, Iqbal R, Janszky I, Moller J. Severity of Depression, Anxious Distress and the Risk of
+Cardiovascular Disease in a Swedish Population-Based Cohort. PLoS One 2015; 10(10):e0140742.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+23.
+
+24.
+
+Mattina GF, Lieshout RJ, Steiner M. Inflammation,
+depression and cardiovascular disease in women:
+the role of the immune system across critical reproductive events. Ther Adv Cardiovasc Dis 2019;
+13:1753944719851950.
+Slavich GM, Sacher J. Stress, sex hormones, inflammation, and major depressive disorder: Extending Social Signal Transduction Theory of
+Depression to account for sex differences in
+mood disorders. Psychopharmacology (Berl) 2019;
+236(10):3063-3079.
+Cox DR, Ashby S, DeConde AS, Mace JC, Orlandi
+RR, Smith TL, Alt JA. Dyad of pain and depression
+in chronic rhinosinusitis. Int Forum Allergy Rhinol
+2016; 6(3):308-314.
+Lloyd-Jones DM, Hong Y, Labarthe D, Mozaffarian
+D, Appel LJ, Van Horn L, Greenlund K, Daniels S,
+Nichol G, Tomaselli GF, Arnett DK, Fonarow GC,
+Ho PM, Lauer MS, Masoudi FA, Robertson RM, Roger V, Schwamm LH, Sorlie P, Yancy CW, Rosamond
+WD; American Heart Association Strategic Planning Task Force and Statistics Committee. Defining
+and setting national goals for cardiovascular health
+promotion and disease reduction: the American Heart Association’s strategic Impact Goal through 2020
+and beyond. Circulation 2010; 121(4):586-613.
+Kandola A, Ashdown-Franks G, Hendrikse J, Sabiston CM, Stubbs B. Physical activity and depression:
+Towards understanding the antidepressant mechanisms of physical activity. Neurosci Biobehav Rev
+2019; 107:525-539.
+Freitas AR, Carneseca EC, Paiva CE, Paiva BS. Impact of a physical activity program on the anxiety,
+depression, occupational stress and burnout syndrome of nursing professionals. Rev Lat Am Enferm
+2014; 22(2):332-336.
+Lanuza F, Petermann-Rocha F, Celis-Morales C,
+Concha-Cisternas Y, Nazar G, Troncoso-Pantoja C,
+Lassere-Laso N, Martínez-Sanguinetti MA, Parra-Soto S, Zamora-Ros R, Andrés-Lacueva C, Meroño
+T. A healthy eating score is inversely associated with
+depression in older adults: results from the Chilean
+National Health Survey 2016-2017. Public Health
+Nutr 2021; 25(10):1-12.
+László A, Tabák Á, Kőrösi B, Eörsi D, Torzsa P, Cseprekál O, Tislér A, Reusz G, Nemcsik-Bencze Z,
+Gonda X, Rihmer Z, Nemcsik J. Association of affective temperaments with blood pressure and arterial
+stiffness in hypertensive patients: a cross-sectional
+study. BMC Cardiovasc Disord 2016; 16(1):158.
+Mushtaq M, Najam N. Depression, anxiety, stress
+and demographic determinants of hypertension disease. Pak J Med Sci 2014; 30(6):1293-1298.
+Bădescu SV, Tătaru C, Kobylinska L, Georgescu EL,
+Zahiu DM, Zăgrean AM, Zăgrean L. The association
+between Diabetes mellitus and Depression. J Med
+Life 2016; 9(2):120-125.
+Amorim TA, Lucchese R, Silva Neta EMD, Santos JSD, Vera I, Paula NI, Simões ND, Monteiro
+LHB. Determinants of mental health and abuse of
+psychoactive substances associated with tobacco
+use. A case-control study. Cien Saude Colet 2019;
+24(11):4141-4152.
+
+Ciência & Saúde Coletiva, 30(4):1-11, 2025
+
+Referências
+
+Pinheiro MLSP et al
+
+10
+
+25.
+
+26.
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+33.
+34.
+35.
+36.
+
+37.
+38.
+
+39.
+
+Veromaa V, Kautiainen H, Saxen U, Malmberg-Ceder K, Bergman E, Korhonen PE. Ideal cardiovascular health and psychosocial risk factors among
+Finnish female municipal workers. Scand J Public
+Health 2017; 45(1):50-56.
+Zeng Q, Dong SY, Song ZY, Zheng YS, Wu HY, Mao
+LN. Ideal cardiovascular health in Chinese urban
+population. Int J Cardiol 2013; 167(5):2311-2317.
+Bousquet-Santos K, Chen R, Kubzansky LD. A sad
+heart: Depression and favorable cardiovascular health in Brazil. Prev Med 2021; 142:106378.
+Stopa SR, Szwarcwald CL, Oliveira MM, Gouvea
+ECDP, Vieira MLFP, Freitas MPS, Sardinha LMV,
+Macário EM. National Health Survey 2019: history,
+methods and perspectives. Epidemiol Serv Saude
+2020; 29(5):e2020315.
+Zhou L, Zhao L, Wu Y, Wu Y, Gao X, Li Y, Mai J, Nie
+Z, Ou Y, Guo M, Liu X. Ideal cardiovascular health
+metrics and its association with 20-year cardiovascular morbidity and mortality in a Chinese population.
+J Epidemiol Community Health 2018; 72(8):752-758.
+España-Romero V, Artero EG, Lee DC, Sui X, Baruth M, Ruiz JR, Pate RR, Blair SN. A prospective
+study of ideal cardiovascular health and depressive
+symptoms. Psychosomatics 2013; 54(6):525-535.
+Moreira AD, Gomes CS, Machado ÍE, Malta DC, Felisbino-Mendes MS. Cardiovascular health and validation of the self-reported score in Brazil: analysis of
+the National Health Survey. Cien Saude Colet 2020;
+25(11):4259-4268.
+World Health Organization (WHO). NCD global
+monitoring framework. Geneva: WHO; 2013.
+World Health Organization (WHO). WHO guidelines on physical activity and sedentary behaviour.
+Geneva: WHO; 2020.
+World Health Organization (WHO). Obesidade: prevenindo e gerenciando a epidemia global. Genebra:
+WHO; 2004.
+Kuehner C. Why is depression more common
+among women than among men? Lancet Psychiatry
+2017; 4(2):146-158.
+Orellana JDY, Ribeiro MRC, Barbieri MA, Saraiva
+MDC, Cardoso VC, Bettiol H, Silva AAMD, Barros
+FC, Gonçalves H, Wehrmeister FC, Menezes AMB,
+Del-Ben CM, Horta BL. Mental disorders in adolescents, youth, and adults in the RPS Birth Cohort
+Consortium (Ribeirão Preto, Pelotas and São Luís),
+Brazil. Cad Saude Publica 2020; 36(2):e00154319.
+Smolen JR, Araújo EM. Race/skin color and mental
+health disorders in Brazil: a systematic review of the
+literature. Cien Saude Colet 2017; 22(12):4021-4030.
+Barnes DM, Bates LM. Do racial patterns in psychological distress shed light on the Black-White
+depression paradox? A systematic review. Soc Psychiatry Psychiatr Epidemiol 2017; 52(8):913-928.
+Lund C, Brooke-Sumner C, Baingana F, Baron EC,
+Breuer E, Chandra P, Haushofer J, Herrman H, Jordans M, Kieling C, Medina-Mora ME, Morgan E,
+Omigbodun O, Tol W, Patel V, Saxena S. Social determinants of mental disorders and the Sustainable
+Development Goals: a systematic review of reviews.
+Lancet Psychiatry 2018; 5(4):357-369.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+47.
+48.
+
+49.
+
+50.
+
+Lopes CS, Hellwig N, Silva GA, Menezes PR. Inequities in access to depression treatment: results of the
+Brazilian National Health Survey - PNS. Int J Equity
+Health 2016; 15(1):154.
+Haroz EE, Ritchey M, Bass JK, Kohrt BA, Augustinavicius J, Michalopoulos L, Burkey MD, Bolton P.
+How is depression experienced around the world?
+A systematic review of qualitative literature. Soc Sci
+Med 2017; 183:151-162.
+Tee ML, Tee CA, Anlacan JP, Aligam KJG, Reyes
+PWC, Kuruchittham V, Ho RC. Psychological impact of COVID-19 pandemic in the Philippines. J
+Affect Disord 2020; 277:379-391.
+Lansner MW, Jakobsen KK, Jensen JS, Sandsten
+KE, Grønhøj C, von Buchwald C. Development of
+depression in patients with oral cavity cancer: a systematic review. Acta Otolaryngol 2020; 140(10):876881.
+Gomes CS, Gonçalves RPF, Silva AGD, Sá ACMGN,
+Alves FTA, Ribeiro ALP, Malta DC. Factors associated with cardiovascular disease in the Brazilian adult
+population: National Health Survey, 2019. Rev Bras
+Epidemiol 2021; 24(Supl. 2):e210013.
+Motta ACSV, Bousquet-Santos K, Motoki IHL,
+Andrade JML. Prevalence of ideal cardiovascular
+health in the Brazilian adult population - National
+Health Survey 2019. Epidemiol Serv Saude 2023;
+32(1):e2022669.
+Zhao JL, Jiang WT, Wang X, Cai ZD, Liu ZH, Liu
+GR. Exercise, brain plasticity, and depression. CNS
+Neurosci Ther 2020; 26(9):885-895.
+Bueno-Antequera J, Munguía-Izquierdo D. Exercise
+and Depressive Disorder. Adv Exp Med Biol 2020;
+1228:271-287.
+Barros MBA, Lima MG, Azevedo RCS, Medina LBP,
+Lopes CS, Menezes PR, Malta DC. Depression and
+health behaviors in Brazilian adults - PNS 2013. Rev
+Saude Publica 2017; 51(Supl. 1):8s.
+Vaccarino V, Badimon L, Bremner JD, Cenko E,
+Cubedo J, Dorobantu M, Duncker DJ, Koller A,
+Manfrini O, Milicic D, Padro T, Pries AR, Quyyumi AA, Tousoulis D, Trifunovic D, Vasiljevic Z, Wit
+C, Bugiardini R; ESC Scientific Document Group
+Reviewers. Depression and coronary heart disease:
+2018 position paper of the ESC working group on
+coronary pathophysiology and microcirculation.
+Eur Heart J 2020; 41(17):1687-1696.
+Lichtman JH, Froelicher ES, Blumenthal JA, Carney
+RM, Doering LV, Frasure-Smith N, Freedland KE,
+Jaffe AS, Leifheit-Limson EC, Sheps DS, Vaccarino
+V, Wulsin L; American Heart Association Statistics
+Committee of the Council on Epidemiology and
+Prevention and the Council on Cardiovascular and
+Stroke Nursing. Depression as a risk factor for poor
+prognosis among patients with acute coronary syndrome: systematic review and recommendations: a
+scientific statement from the American Heart Association. Circulation 2014; 129(12):1350-1369.
+
+11
+
+52.
+
+53.
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+61.
+
+62.
+
+63.
+
+CC
+
+Barros MBA, Lima MG, Malta DC, Szwarcwald CL,
+Azevedo RCS, Romero D, Souza Júnior PRB, Azevedo LO, Machado ÍE, Damacena GN, Gomes CS,
+Werneck AO, Silva DRPD, Pina MF, Gracie R. Report on sadness/depression, nervousness/anxiety
+and sleep problems in the Brazilian adult population
+during the COVID-19 pandemic. Epidemiol Serv
+Saude 2020; 29(4):e2020427.
+Saghafian F, Malmir H, Saneei P, Milajerdi A, Larijani B, Esmaillzadeh A. Fruit and vegetable consumption and risk of depression: accumulative
+evidence from an updated systematic review and
+meta-analysis of epidemiological studies. Br J Nutr
+2018; 119(10):1087-1101.
+Liu X, Yan Y, Li F, Zhang D. Fruit and vegetable consumption and the risk of depression: A meta-analysis. Nutrition 2016; 32(3):296-302.
+International Food Policy Research Institute
+(IFPRI). Global nutrition report 2014: actions and
+accountability to accelerate the world’s progress on nutrition. Washington D.C.: IFPRI; 2014.
+Brito VCA, Bello-Corassa R, Stopa SR, Sardinha
+LMV, Dahl CM, Viana MC. Prevalence of self-reported depression in Brazil: National Health Survey
+2019 and 2013. Epidemiol Serv Saude 2022; 31(n.
+esp. 1):e2021384.
+Salgado MA, Fortes SLCL. Indicadores de saúde
+mental na atenção primária à saúde: avaliando a qualidade do acesso através da capacidade de detecção
+de casos. Cad Saude Publica 2021; 37(9):e00178520.
+Gonçalves AMC, Teixeira MTB, Gama JRA, Lopes
+CS, Silva GA, Gamarra, CJ, Duque KCD, Machado
+MLSM. Prevalência de depressão e fatores associados em mulheres atendidas pela Estratégia de Saúde
+da Família. J Bras Psiquiatr 2018; 67(2):101-109.
+Malta DC, Gomes CS, Szwarcwald CL, Barros MBA,
+Silva AG, Prates EJS, Machado IE, Souza Júnior PRB,
+Romero DE, Lima MG, Damacena GN, Azevedo LO,
+Pina MF, Werneck AO, Silva DRP. Distanciamento
+social, sentimento de tristeza e estilos de vida da população brasileira durante a pandemia de Covid-19.
+Saude Debate 2020; 44(4):177-190.
+Instituto Brasileiro de Geografia e Estatística (IBGE).
+Pesquisa nacional de saúde: 2019: informações sobre
+domicílios, acesso e utilização dos serviços de saúde:
+Brasil, grandes regiões e unidades da federação. Rio
+de Janeiro: IBGE; 2020.
+Brasil. Ministério da Saúde (MS). Departamento de
+Atenção Básica. Política Nacional de Atenção Básica.
+Brasília: MS; 2012.
+Brasil. Ministério da Saúde (MS). Secretaria de
+Atenção à Saúde. Departamento de Atenção Básica.
+Saúde mental, Departamento de Ações Programáticas
+Estratégicas. Brasília: MS; 2013.
+Gonçalves VSS, Andrade KRC, Carvalho KMB, Silva
+MT, Pereira MG, Galvao TF. Accuracy of self-reported hypertension: a systematic review and meta-analysis. J Hypertens 2018; 36(5):970-978.
+Mill JG, Malta DC, Machado ÍE, Pate A, Pereira CA,
+Jaime PC, Szwarcwald CL, Rosenfeld LG. Estimation of salt intake in the Brazilian population: results
+from the 2013 National Health Survey. Rev Bras Epidemiol 2019; 22(Supl. 2):E190009.SUPL.2.
+
+BY
+
+64.
+
+65.
+
+66.
+
+Gomes CS, Gonçalves RPF, Silva AGD, Sá ACMGN,
+Alves FTA, Ribeiro ALP, Malta DC. Factors associated with cardiovascular disease in the Brazilian adult
+population: National Health Survey, 2019. Rev Bras
+Epidemiol 2021; 24(Supl. 2):e210013.
+Araujo TA, Oliveira IM, Silva TGVD, Roediger MA,
+Duarte YAO. Health conditions and weight change
+among the older adults over ten years of the SABE
+Survey. Epidemiol Serv Saude 2020; 29(4):e2020102.
+Silveira EA, Kac G, Barbosa LS. Prevalência e fatores associados à obesidade em idosos residentes
+em Pelotas, Rio Grande do Sul, Brasil: classificação
+da obesidade segundo dois pontos de corte do índice de massa corporal. Cad Saude Publica 2009;
+25(7):1569-1577.
+
+Artigo apresentado em 06/06/2023
+Aprovado em 10/04/2024
+Versão final apresentada em 12/04/2024
+Editores-chefes: Maria Cecília de Souza Minayo, Romeu
+Gomes, Antônio Augusto Moura da Silva
+
+Este é um artigo publicado em acesso aberto sob uma licença Creative Commons
+
+Ciência & Saúde Coletiva, 30(4):1-11, 2025
+
+51.
+
+

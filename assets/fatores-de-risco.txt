@@ -1,0 +1,1474 @@
+Artigo Original
+Associação entre Fatores de Risco Cardiovascular e Placas nas
+Artérias Carótidas em um Estudo Populacional – Estudo SHIP-Brasil
+Association between Cardiovascular Risk Factors and Carotid Plaques in a Population-Based Study - The SHIPBrazil Study
+Fernanda Burger Zimmermann,1 Sérgio Luiz Zimmermann,1 Marcelo Burger Zimmermann,1 Enrico Klug Beraldi,1
+Mateus Campanelli Franco da Rocha,1 Bruno Pereira de Oliveira Zabot,2 Siegmar Starke,1 Ernani Tiaraju de Santa
+Helena,1 Marcello Ricardo Paulista Markus3,4,5
+Fundação Universidade Regional de Blumenau (FURB),1 Blumenau, SC – Brasil
+Hospital Santa Isabel Blumenau,2 Blumenau, SC – Brasil
+University Medicine Greifswald Department and Polyclinic of Internal Medicine B,3 Greifswald, Mecklenburg-Vorpommern – Alemanha
+German Centre for Cardiovascular Research,4 Greifswald – Alemanha
+German Center for Diabetes Research,5 Greifswald – Alemanha
+
+Resumo
+Fundamento: A doença aterosclerótica é uma causa relevante de morbidade e mortalidade na população geral, e
+importante para detectar fatores que possam influenciar sua prevenção.
+Objetivos: Avaliar a associação de fatores de risco cardiovascular com placas na artéria carótida em participantes do
+Estudo de Saúde na Pomerânia (The Study of Health in Pomerania, SHIP).
+Métodos: Um total de 1953 participantes foram avaliados quanto à presença de fatores de risco cardiovasculares
+(hipertensão, dislipidemia, diabetes tipo 2, obesidade, tabagismo e inatividade física) e variáveis sociodemográficas
+(sexo, idade, cultura alemã, cor/raça autodeclarada, e consumo de álcool), circunferência da cintura, relação cintura/
+quadril, relação cintura-altura. A presença de placas na artéria carótida foi analisada por ultrassonografia. A associação
+entre as variáveis do estudo e a presença de placas foi avaliada pelo teste do qui-quadrado. Um valor de p<0,05 foi
+considerado significativo.
+Resultados: As placas estiveram presentes em 56,5% dos pacientes hipertensos (p<0,001), 49,8% dos pacientes
+dislipidêmicos (p<0,001), 62% dos pacientes diabéticos (p<0,001), 52% dos fumantes e 29% dos pacientes que nunca
+fumaram (p<0,001), 39,5% dos indivíduos sedentários e 33,1% dos não sedentários (p=0,014), 43,7% das pessoas
+obesas e 26,1% dos eutróficos (p<0,001).
+Conclusão: Placas nas artérias carótidas foram prevalentes em indivíduos do sexo masculino, com idade entre 60 e
+79 anos, da raça branca, hipertensos, dislipidêmicos, diabéticos, tabagistas, sedentários e obesos, de cultura alemã,
+analfabetos, da classe econômica A1/A2 e com baixo consumo de álcool.
+Palavras-chave: Aterosclerose; Espessura Intima-Media Carotídea; Fatores de Risco de Doenças Cardíacas;
+Ultrassonografia das Artérias Carótidas.
+
+Abstract
+Background: Atherosclerotic disease is a relevant cause of morbidity and mortality in the general population, and it is important to detect factors
+that can influence its prevention.
+Objective: To evaluate the association of cardiovascular risk factors with carotid plaques in participants of the Study of Health in Pomerania
+(SHIP) – Brazil.
+Methods: A total of 1,953 participants were assessed for the presence of cardiovascular risk factors (hypertension, dyslipidemia, type 2 diabetes,
+obesity, smoking and physical inactivity) and sociodemographic variables (gender, age group, Germanic culture, color/race self-declared, and alcohol
+consumption), waist circumference measurement, waist-to-hip ratio and waist-to-height ratio. The presence of carotid plaques was analyzed by
+
+Correspondência: Sérgio Luiz Zimmermann •
+Rua Floriano Peixoto, 245, sala 59. CEP 89010-500, Blumenau, SC – Brasil
+E-mail: slzimmermann@cardioblu.com.br
+Artigo recebido em 15/08/2024, revisado em 04/12/2024, aceito em 15/01/2025
+Editor responsável pela revisão: Nuno Bettencourt
+
+DOI: https://doi.org/10.36660/abc.20240546
+
+1
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+ultrasound. The association between the study variables and carotid plaques was assessed using the Chi-square test. A p-value < 0.05 was
+considered significant.
+Results: Plaques were present in 56.5% of hypertensive patients (p<0.001), 49.8% of dyslipidemic patients (p<0.001), 62% of diabetic
+patients (p<0.001), 52% of smokers, 29% of those who had never smoked (p<0.001), 39.5% of sedentary people and 33.1% of non-sedentary
+people (p=0.014), 43.7% of obese people and 26.1% of eutrophic people (p<0.001).
+Conclusion: Carotid plaques were prevalent in men, aged between 60 and 79, white, hypertensive, dyslipidemic, diabetic, smokers, sedentary
+and obese, illiterate, in economic class A1/A2, and of Germanic culture, and low alcohol consumption.
+Keywords: Atherosclerosis; Carotid Intima-Media Thickness; Heart Disease Risk Factors; Carotid Arteries Ultrasonography.
+Full texts in English - https://abccardiol.org/en/
+
+Figura Central: Associação entre Fatores de Risco Cardiovascular e Placas nas Artérias Carótidas em um
+Estudo Populacional – Estudo SHIP-Brasil
+
+Estilo de vida
+sedentário
+
+Hipertensão
+
+Dislipidemia
+Doença
+aterosclerótica
+carotídea
+
+Obesidade
+
+Diabetes
+
+Tabagismo
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+Introdução
+As doenças cardiovasculares ateroscleróticas estão
+associadas a altas taxas de morbidade e mortalidade em
+todo o mundo.1,2 A aterosclerose é uma doença inflamatória
+crônica causada por um desequilíbrio no metabolismo
+lipídico, principalmente devido à elevada concentração de
+lipoproteína de baixa densidade (LDL colesterol) no sangue,
+gerando placas ateromatosas nos vasos.3,4 Os principais fatores
+de risco para o desenvolvimento da doença são hipertensão,
+dislipidemia, diabetes, tabagismo, obesidade, estilo de vida
+sedentário e histórico familiar, além da influência de fatores
+como idade e sexo.5,6
+As primeiras manifestações clínicas das doenças
+cardiovasculares ateroscleróticas incluem angina estável,
+angina instável e sinais de doença cardíaca isquêmica.7
+Elas também podem ser silenciosas e se manifestar como
+um evento potencialmente fatal como o infarto agudo
+do miocárdio. Diante disso, a estratificação de risco é
+extremamente importante para identificar indivíduos
+
+assintomáticos com uma maior predisposição para
+desenvolverem doença cardiovascular.8
+Além dos vários escores de estratificação de risco
+existentes, é possível identificar a presença de placas
+ateroscleróticas nas artérias carótidas. Trata-se de um
+marcador subclínico de doença aterosclerótica que pode
+ser avaliado pelo exame de ultrassonografia.9 As Diretrizes
+Brasileiras de Dislipidemia classificaram a aterosclerose
+subclínica, detectada pela presença de placas nas artérias
+carótidas, como um indicador de alto risco para o
+desenvolvimento de doença cardiovascular em indivíduos
+submetidos à prevenção primária.10,11 A investigação desses
+marcadores é de grande importância.
+Nesse contexto, nosso estudo teve como objetivo avaliar
+a associação de fatores de risco cardiovascular com placas
+nas artérias carótidas. Isso é importante, uma vez que a
+identificação dos grupos de pacientes com maior risco de
+desenvolverem doença aterosclerótica carotídea pode levar
+a melhores programas de rastreamento em sistemas de saúde.
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+2
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+Métodos
+Este é um estudo epidemiológico, transversal, de base
+populacional de participantes no momento basal do Estudo de
+Saúde na Pomerânia (The Study of Health in Pomerania, SHIP).
+O SHIP-Brazil é um estudo do tipo coorte conduzido por
+pesquisadores do Programa de Graduação em Saúde Pública
+da Fundação Universidade Regional de Blumenau (FURB)
+em parceria com o Instituto de Medicina de Comunidade
+da Faculdade de Medicina de Greifswald, Universidade de
+Greifswald Alemanha. Os objetivos, delineamento, métodos e
+resultados preliminares do estudo foram descritos previamente.12
+Em resumo, obteve-se uma amostra aleatória simples, com
+pessoas com idade entre 20 e 79 anos de ambos os sexos (12
+estratos de amostragem, dois estratos por sexo e seis estratos por
+grupo etário de dez anos), com um total de 3678 participantes.
+O cálculo amostral considerou uma prevalência de eventos de
+50%, precisão de 5% e intervalo de confiança de 95%. Os critérios
+de inclusão foram pessoas que residiam em Pomerode, Santa
+Catarina, por pelo menos seis meses. Os critérios de exclusão
+foram pacientes com alguma condição física e/ou mental que os
+impediram de responder os questionários ou ser submetidos a
+exames. Ao final da coleta de dados, no estudo, ocorreram cerca
+de 30% de perdas e/ou recusas, e a amostra final foi composta
+de 2488 pessoas.
+A coleta de dados foi realizada entre 2014 e 2016. Os
+participantes receberam visita no domicílio, onde os questionários
+foram administrados. Ao final da visita, os participantes receberam
+as orientações necessárias para realizarem exames no hospital
+universitário de Blumenau. Todos os procedimentos de coleta de
+dados estão descritos nos Procedimentos Operacionais Padrão
+(http://www.furb.br/vspomerode).
+Os exames de ultrassonografia das artérias carótidas foram
+realizados por um examinador treinado, usando o equipamento
+VividTM I (General Electric), equipado com um transdutor e um
+sistema de registro de imagem. Os participantes permaneceram
+na posição supina com a cabeça ligeiramente inclinada para o
+lado contralateral da artéria carótida. Cada segmento – artéria
+carótida comum distal, bifurcação da carótida e as porções
+proximais da artéria carótida interna e da artéria carótida externa
+à direita e à esquerda – foi examinado separadamente e em
+sequência. Primeiramente, a imagem em modo B foi estudada
+tanto longitudinalmente e em uma imagem transversal em relação
+às placas ateroscleróticas. Aqui, os vasos foram examinados com
+diferentes ângulos de sons. Isso significa que, do ângulo localizado
+na posição mais anterior até o ângulo localizado na posição mais
+posterior, todos os vasos devem ser examinados para detectar até
+as menores placas excêntricas. A presença de placa foi considerada
+quando houvesse (1) uma protrusão focal do complexo médiointimal em direção ao lúmen do vaso, que emergisse acima da
+espessura da camada da íntima-media circundante; ou (2) um
+aumento focal na ecogenicidade em uma seção longitudinal
+determinada por uma aspereza da superfície luminal, mesmo
+sem projeção ou com uma mínima projeção para o lúmen do
+vaso. As placas foram avaliadas visualmente e quantificadas com
+base na localização.
+As seguintes variáveis sociodemográficas foram escolhidas:
+sexo (masculino/feminino), grupo etário: 20 a 39, 40 a 59 e 60 a
+79, estado civil – casado e solteiro(a)/separado(a)/viúvo(a), raça/
+
+3
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+cor autodeclarada e educação (analfabeto, ensino fundamental,
+ensino médio, faculdade). Os indivíduos que relataram falar
+alemão regularmente em casa e frequentar associações culturais
+alemãs foram considerados de cultura alemã.13 A classe
+econômica de consumo foi obtida de acordo com o “Critério
+Brasil”,14 e a soma dos escores foi convertida em categorias que
+foram agrupadas em A1/A2, B1/B2, C1/C2, ou D/E.
+Quanto às variáveis de estilo de vida, os participantes foram
+classificados em fumantes, ex-fumantes e não fumantes. O
+consumo de bebida alcoólica (baixo, moderado, alto e grave) foi
+estimado usando o questionário AUDIT-C adaptado e validado
+em português.15 O International Physical Activity Questionnaire
+(IPAQ-versão curta)15,16 foi usado para estimar a atividade física,
+e os que relataram praticar atividade física moderada ou vigorosa
+por 150 minutos ou mais por semana foram considerados
+suficientemente ativos.
+As variáveis antropométricas incluíram índice de massa
+corporal (IMC), razão cintura-quadril (RCQ), razão cinturaaltura (RCA) e circunferência da cintura (CC). A massa corporal
+foi medida usando uma balança eletrônica (WELMY® Adult
+W300) com capacidade de 300 Kg e precisão de 50g. A
+altura foi medida usando um estadiômetro com uma haste
+fixa à balança. O IMC foi obtido dividindo-se a massa
+corporal (em quilogramas) pela altura ao quadrado (m2).
+Os participantes foram classificados como eutróficos (IMC <
+25 kg/m²), com sobrepeso (25,0 a 29,9 Kg/m²) e obesos
+(≥ 30 Kg/m²). Os idosos foram considerados com sobrepeso
+se apresentassem IMC ≥ 27 Kg/m²). As circunferências foram
+medidas usando uma fita inelástica Cescorf® (em centímetros). A
+RCQ foi calculada, e os valores menores que 0,85 para mulheres e
+menores que 0,90 para homens foram considerados inadequados.
+A presença de hipertensão arterial, Diabetes Mellitus e
+dislipidemia foi autorrelatada pelos participantes com base em
+um diagnóstico clínico prévio.
+Análise estatística
+Os dados foram analisados usando estatística descritiva –
+média e desvio padrão (DP) e/ou frequências (absolutas e relativas)
+e apresentados em tabelas. As variáveis foram testadas quanto à
+distribuição (assimetria e curtose usando o teste de D’Agostino).
+A associação entre as variáveis do estudo e o escore da placa
+(nenhum, um ou dois, e três ou mais)17 foi examinada usando o
+programa Stata 11,2 (Stata Corporation, College Station, TX, EUA).
+Um valor de p <0,05 foi considerado significativo.
+O SHIP-Brazil segue a resolução 466/2012 e a resolução
+510/2016 do Conselho Nacional da Saúde, bem como a
+Declaração de Helsinki. Todos os participantes assinaram o termo
+de consentimento, e o estudo foi submetido e aprovado ao comitê
+de ética da FURB (2.969.842).
+
+Resultados
+A população do estudo foi composta de 2488 participantes.
+Desses, 235 (9,4%) não compareceram ao centro de exames
+e 300 (12,1%) não aceitaram a serem submetidos ao
+exame de ultrassonografia das carótidas. Nós analisamos
+1953 participantes.
+A Tabela 1 apresenta as características dos participantes.
+A idade média foi 50,85 anos (DP=14.64) e a mediana
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+Tabela 1 – Características dos participantes do “The Study of Health in Pomerania (SHIP) – Brazil” 2014-2018
+Características da população (n = 1953)
+
+Variáveis
+
+1 – Sexo
+
+2 – Idade
+
+3 – Estado civil
+
+4 – Raça/Cor
+
+5 – Cultura alemã
+
+6 – Educação
+
+7 – Classe socioeconômica
+
+8 – Consumo de álcool
+
+9 – Tabagismo
+
+10 – Atividade física
+
+11 – Obesidade
+
+12 – Circunferência da cintura
+
+Frequência
+
+Porcentagem
+
+Masculino
+
+820
+
+42,0%
+
+Feminino
+
+1133
+
+58,0%
+
+20-39
+
+498
+
+25,5%
+
+40-59
+
+885
+
+45,3%
+
+60-79
+
+570
+
+29,2%
+
+Casado
+
+1482
+
+77,2%
+
+Solteiro/Separado/Viúvo
+
+438
+
+22,8%
+
+Branca
+
+1779
+
+92,8%
+
+Não-branca
+
+138
+
+7,2%
+
+Não
+
+572
+
+29,8%
+
+Sim
+
+1345
+
+70,2%
+
+Ensino superior
+
+263
+
+13,9%
+
+Ensino médio
+
+493
+
+26,0%
+
+Ensino fundamental (5º - 8º ano)
+
+374
+
+19,8%
+
+Ensino fundamental (1º - 4º ano)
+
+739
+
+39,0%
+
+Analfabeto
+
+24
+
+1,3%
+
+A1/A2
+
+244
+
+12,5%
+
+B1/B2
+
+1148
+
+58,8%
+
+C1/C2
+
+547
+
+28,0%
+
+D/E
+
+13
+
+0,7%
+
+Baixo
+
+1346
+
+70,8%
+
+Moderado
+
+322
+
+16,9%
+
+Alto
+
+150
+
+7,9%
+
+Grave
+
+83
+
+4,4%
+
+Nunca fumou
+
+1271
+
+66,7%
+
+Tabagista
+
+434
+
+22,8%
+
+Ex-tabagista
+
+202
+
+10,6%
+
+Ativo
+
+1239
+
+68,3%
+
+Sedentário
+
+575
+
+31,7%
+
+Baixo peso
+
+15
+
+0,8%
+
+Eutrófico
+
+445
+
+24,2%
+
+Sobrepeso
+
+668
+
+36,3%
+
+Obeso
+
+712
+
+38,7%
+
+Risco baixo
+
+632
+
+34,6%
+
+Risco alto
+
+1194
+
+65,4%
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+4
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+
+13 – Relação cintura-altura
+
+14 – Relação cintura-altura
+
+Risco baixo
+
+558
+
+30,5%
+
+Risco alto
+
+1269
+
+69,5%
+
+Risco baixo
+
+551
+
+30,1%
+
+Risco alto
+
+1277
+
+69,9%
+
+No
+
+1100
+
+63,2%
+
+Yes
+
+640
+
+36,8%
+
+No
+
+1719
+
+91,0%
+
+Yes
+
+171
+
+9,0%
+
+No
+
+1297
+
+68,2%
+
+Yes
+
+604
+
+31,8%
+
+0
+
+1249
+
+64,0%
+
+1-2
+
+455
+
+23,3%
+
+≥3
+
+249
+
+12,8%
+
+15 – Hipertensão
+
+16 – Diabetes
+
+17 – Dislipidemia
+
+18 – Placas na artéria carótida
+
+Fonte: The Study of Health in Pomerania (SHIP) – Brazil
+
+foi 51,4 anos. Observou-se uma prevalência mais alta de
+participantes do sexo feminino, estado civil casado, raça
+branca e cultura alemã. Quanto à escolaridade, a maioria
+dos participantes haviam completado entre um e quatro anos
+de ensino fundamental. A classe B1/B2 foi a predominante.
+Em relação ao estilo de vida, observou-se um baixo consumo
+de álcool na população do estudo, bem como uma alta
+porcentagem de pessoas que nunca haviam fumado, e uma
+baixa porcentagem de pessoas sedentárias. Em relação aos
+dados antropométricos, houve uma alta prevalência de
+obesidade, CC de alto risco, RCQ de alto risco, e RCQ de alto
+risco. Foi possível observar ainda uma porcentagem baixa de
+participantes com doenças crônicas: hipertensão, diabetes e
+dislipidemia em comparação aos participantes sem doenças
+crônicas. Neste estudo, a presença de placas nas artérias
+carótidas foi observada em 36% dos participantes: 64,0%
+não apresentaram placas, 23,3% apresentaram uma ou
+duas placas e 12,8% apresentaram três ou mais placas nas
+artérias carótidas.
+As Tabelas 2 e 3 apresentam a associação entre as variáveis
+apresentadas e a presença de placas ateroscleróticas na
+artéria carótida. Observou-se uma porcentagem mais alta
+de participantes sem placas com as seguintes características:
+sexo feminino, idade entre 20 e 39 anos, solteira/separada/
+viúva, raça não branca, cultura não alemã, educação
+superior completa, classe econômica B1/B2, consumo
+moderado de álcool, nunca fumaram, e praticava atividade
+física. Quanto aos dados antropométricos, a porcentagem
+mais alta de pessoas sem placas encontrava-se no grupo
+eutrófico, com medidas de CC, RCQ e RCA de baixo risco.
+Quanto às doenças crônicas, havia uma porcentagem mais
+alta de indivíduos sem placas naqueles não hipertensos, não
+dislipidêmicos e não diabéticos.
+Uma porcentagem mais alta de participantes com uma ou
+duas placas ateroscleróticas foi encontrada com as seguintes
+
+5
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+características: sexo masculino, idade entre 60 e 79 anos,
+casado, branco, cultura alemã, analfabeto, classe econômica
+A1/A2, baixo consumo de álcool, fumantes, insuficientemente
+ativos, hipertenso, diabético e dislipidêmico. Quanto aos
+dados antropométricos, houve uma porcentagem mais alta
+de obesidade, medida de CC de alto risco, medida de RCA
+de alto risco e RCQ de baixo risco.
+Observou-se uma porcentagem mais alta de participantes
+com três ou mais placas entre os indivíduos do sexo masculino,
+idade entre 60 e 79 anos, raça branca, cultura alemã,
+analfabetos, classe econômica A1/A2, baixo consumo de
+álcool, tabagistas, sedentários, obesos, hipertensos, diabéticos
+e dislipidêmicos.
+
+Discussão
+A presença de aterosclerose carotídea trem sido descrita em
+uma parcela considerável de populações na América Latina
+há décadas. Um estudo mexicano publicado em 1999 relatou
+uma prevalência de lesão aterosclerótica carotídea em 64,8%
+da população estudada.18 Um estudo brasileiro19 publicado em
+2021 demonstrou uma frequência de presença de placas em
+35,8% da população.
+Em relação ao gênero, encontramos que a prevalência
+de pessoas com placas na artéria carótida foi mais alta entre
+homens. Isso foi observado em participantes com uma ou duas
+placas e naqueles com três ou mais placas. Essa informação
+está de acordo com achados de estudos prévios8,20,21 que
+demonstram que homens estão em um risco maior de
+eventos cardiovasculares. Por outro lado, em mulheres após
+a menopausa, esse risco é igualado pela ausência de efeito
+protetor proporcionado pelo estrógeno.22-24
+Além disso, observou-se que à medida que o grupo
+etário aumentava, ocorria um aumento na prevalência dos
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+Tabela 2 – Associação entre variáveis sociodemográficas e de estilo de vida e risco cardiovascular com a presença de placas na
+artéria carótida em participantes do estudo “The Study of Health in Pomerania (SHIP) – Brazil” 2014-2018
+Escore de placas
+Características
+
+1 – Estado civil
+
+2 – Cultura alemã
+
+3 – Educação
+
+4 – Classe
+socioeconômica
+
+5 – Consumo de álcool
+
+6 – Tabagismo
+
+7 – Atividade física
+
+0
+n = 1249
+
+1 ou 2
+n = 455
+
+≥3
+n = 249
+
+Casado
+
+948 (64%)
+
+350 (23,6%)
+
+184 (12,4%)
+
+Solteiro / Divorciado / Viúvo
+
+290 (66,2%)
+
+97 (22,2%)
+
+51 (11,6%)
+
+Não
+
+458 (80,1%)
+
+84 (14,7%)
+
+30 (5,2%)
+
+Sim
+
+778 (57,8%)
+
+362 (26,9%)
+
+205 (15,2%)
+
+Ensino superior
+
+231 (87,8%)
+
+25 (9,5%)
+
+7 (2,7%)
+
+Ensino médio
+
+407 (82,6%)
+
+70 (14,2%)
+
+16 (13,7%)
+
+Ensino fundamental (5º - 8º ano)
+
+261 (69,8%)
+
+77 (20,6%)
+
+36 (9,6%)
+
+Ensino fundamental (1º - 4º ano)
+
+310 (42,0%)
+
+252 (34,1%)
+
+177 (24,0%)
+
+Analfabeto
+
+10 (41,7%)
+
+11 (45,8%)
+
+3 (12,5%)
+
+A1/A2
+
+137 (56,2%)
+
+66 (27,0%)
+
+41 (16,8%)
+
+B1/B2
+
+784 (68,3%)
+
+251 (21,9%)
+
+113 (9,8%)
+
+C1/C2
+
+320 (58,5%)
+
+136 (24,9%)
+
+91 (16,6%)
+
+D/E
+
+8 (61,5%)
+
+1
+(7,7%)
+
+4 (30,8%)
+
+Baixo
+
+828 (61,5%)
+
+337 (25,0%)
+
+181 (13,5%)
+
+Moderado
+
+239 (74,2%)
+
+57 (17,7%)
+
+26 (8,1%)
+
+Alto
+
+107 (71,3%)
+
+28 (18,7%)
+
+15 (10,0%)
+
+Grave
+
+55 (66,3%)
+
+18 (21,7%)
+
+10 (12,0%)
+
+Nunca fumou
+
+903 (71,0%)
+
+263 (20,7%)
+
+105 (8,3%)
+
+Tabagista
+
+235 (54,2%)
+
+118 (27,2%)
+
+81 (18,7%)
+
+Ex-tabagista
+
+97 (48,0%)
+
+59 (29,2%)
+
+46 (22,8%)
+
+Ativo
+
+829 (66,9%)
+
+263 (21,1%)
+
+147 (11,9%)
+
+Sedentário
+
+348 (60.5%)
+
+156 (27.1%)
+
+71 (12.4%)
+
+Valor p
+
+0,690
+
+<0,001
+
+<0,001
+
+<0,001
+
+0,001
+
+<0,001
+
+0,014
+
+Fonte: The Study of Health in Pomerania (SHIP) – Brazil
+
+participantes com placas na artéria carótida. Vale mencionar
+que a porcentagem dos participantes com placas na artéria
+carótida no grupo 40-59 anos foi significativamente maior que
+a porcentagem encontrada no grupo 20-39 anos. Ainda, a
+porcentagem dos participantes com placas na artéria carótida
+no grupo 60-79 anos aumentou de 29,6% para 74,9% em
+comparação ao grupo etário anterior. Essa característica
+foi descrita em outros estudos, que observou um aumento
+substancial nas placas nos participantes com idade de 50
+anos ou mais.20,21,25,26
+A hipertensão é um importante fator de risco para o
+desenvolvimento de placas ateroscleróticas, como demonstrado
+em vários estudos.8,21,22,25-30 Da mesma forma, o diabetes é
+
+caracterizado em várias fontes de literatura como uma importante
+comorbidade associada à formação de placa.20,21,25,26
+Em nosso estudo, encontrou-se uma forte correlação entre
+dislipidemia e a presença de placas. No grupo dislipidêmico,
+placas ateroscleróticas estiveram presentes em mais da metade
+dos participantes. Essa correlação também foi observada em
+vários estudos em que essa variável foi analisada.21,25,26
+Em relação ao estilo de vida, as pessoas sedentárias
+apresentaram uma prevalência significativamente mais alta
+de placas na artéria carótida que em pessoas fisicamente
+ativas (p=0,014), e essa associação também foi observada em
+outros estudos.21,22,25,26 Em relação ao tabagismo, encontrou-se
+uma porcentagem mais alta de placas em tabagistas atuais,
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+6
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+Tabela 3 – Associação de variáveis clínicas e antropométricas e risco cardiovascular com a presença de placas na artéria carótida com
+a presença de placas na artéria carótida nos participantes do estudo “The Study of Health in Pomerania (SHIP) – Brazil” 2014-2018
+Escore de placas
+Características
+
+1 – Sexo
+
+2 – Grupo etário
+
+3 – Raça / Cor
+
+4 – Obesidade
+
+5 – Circunferência abdominal
+6 – Relação cintura-altura
+7 – Relação cintura-quadril
+8 – Hipertensão
+9 – Diabetes
+10 – Dislipidemia
+
+0
+n = 1249
+
+1 ou 2
+n = 455
+
+≥3
+n = 249
+
+Masculino
+
+481 (58,7%)
+
+199 (24,3%)
+
+140 (17%)
+
+Feminino
+
+768 (67,8%)
+
+256 (22,6%)
+
+109 (9,6%)
+
+20-39
+
+483 (97%)
+
+14 (2,8%)
+
+1 (0,2%)
+
+40-59
+
+623 (70,4%)
+
+206 (23,3%)
+
+56 (6,3%)
+
+60-79
+
+143 (25,1%)
+
+235 (41,2%)
+
+192 (33,7%)
+
+Branca
+
+1126 (63,3%)
+
+426 (24%)
+
+227 (12,8%)
+
+Não branca
+
+111 (80,4%)
+
+21 (15,2%)
+
+6 (4,4%)
+
+Baixo peso
+
+11 (73,3%)
+
+0 (0%)
+
+4 (26,7%)
+
+Eutrófico
+
+329 (73,9%)
+
+68 (15,3%)
+
+48 (10,8%)
+
+Sobrepeso
+
+442 (66,2%)
+
+151 (22,6%)
+
+75 (11,2%)
+
+Obeso
+
+401 (56,3%)
+
+209 (29,4%)
+
+102 (14,3%)
+
+Risco baixo
+
+465 (73,6%)
+
+99 (15,7%)
+
+68 (10,8%)
+
+Risco alto
+
+713 (59,7%)
+
+326 (27,3%)
+
+155 (13,0%)
+
+Risco baixo
+
+424 (76,0%)
+
+79 (14,2%)
+
+55 (9,9%)
+
+Risco alto
+
+754 (59,4%)
+
+347 (27,3%)
+
+168 (13,2%)
+
+Risco baixo
+
+467 (84,8%)
+
+57 (10,3%)
+
+27 (4,9%)
+
+Risco alto
+
+712 (55,8%)
+
+369 (28,9%)
+
+196 (15,4%)
+
+Não
+
+845 (76,8%)
+
+188 (17,1%)
+
+67 (6,1%)
+
+Sim
+
+279 (43,6%)
+
+216 (33,8%)
+
+145 (22,7%)
+
+Não
+
+1160 (67,5%)
+
+381 (22,2%)
+
+178 (10,4%)
+
+Sim
+
+65 (38,0%)
+
+56 (32,8%)
+
+50 (29,2%)
+
+Não
+
+923 (71,2%)
+
+256 (19,7%)
+
+118 (9,1%)
+
+Sim
+
+303 (50,2%)
+
+185 (30,6%)
+
+116 (19,2%)
+
+Valor p
+
+<0,001
+
+<0,001
+
+<0,001
+
+<0,001
+
+<0,001
+<0,001
+<0,001
+<0,001
+<0,001
+<0,001
+
+Fonte: The Study of Health in Pomerania (SHIP) – Brazil
+
+mas também foi observada uma alta prevalência de placas
+em ex-tabagistas. Estudos sugerem que a taxa de alteração
+aterosclerótica pode ser reduzida por interrupção do tabagismo,
+mas um efeito residual parece estar presente por pelo menos
+10 anos.31,32 A cronologia desses fatos pode não ser explicada
+pelo processo de inflamação crônica associado com tabagismo,
+o que pode danificar células endoteliais das artérias carótidas e
+favorecer o acúmulo de fatores trombogênicos.33
+Quanto ao consumo de álcool, houve uma alta prevalência de
+placas em pessoas com baixo consumo de álcool. Outro estudo
+baseado no SHIP utilizou a espessura da camada íntima-média
+carotídea como um método de avaliar aterosclerose subclínica,
+e encontrou uma associação inversamente proporcional entre
+
+7
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+consumo de álcool e um aumento na espessura da camada
+íntima-média, outro marcador subclínico de aterosclerose. Essa
+associação foi observada em homens com uma ingestão diária
+de até 80 g de álcool.34
+Nossos resultados demonstram uma associação entre
+obesidade e presença de placas. Uma relação similar também
+foi observada entre medidas de alto risco da CC, RCA, e RCQ e
+a presença de placas. Essa observação foi encontrada em vários
+estudos publicados.21,25,26
+Em relação à escolaridade, níveis mais baixos foram
+associados com prevalência mais alta de placas. Essa relação
+pode ser explicada pelo baixo nível educacional dessa
+população em relação à prevenção de doenças. Quanto à classe
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+socioeconômica, a porcentagem mais alta de participantes com
+uma ou duas placas encontrava-se na classe A1/A2 (27,1%),
+e a prevalência mais alta de três ou mais placas encontravase na classe D/E (30,8%). Outros estudos associaram o baixo
+nível educacional e socioeconômico dos participantes com a
+presença de aterosclerose subclínica.26 Estudos futuros poderão
+demonstrar se indivíduos de classes sociais mais altas possam ter
+maior acesso a exames complementares, enquanto em classes
+sociais mais baixas, o diagnóstico seria feito quando a doença
+já estivesse avançada.
+Quanto à etnia, houve uma prevalência mais baixa de placas
+carótidas em pessoas da raça branca. Segundo as diretrizes de
+prevenção da American Heart Association, o risco estimado de
+desenvolver doença cardiovascular aterosclerótica em 10 anos
+é mais alto em pessoas afro-americanas.34 Nós observamos
+uma prevalência mais alta de placas em participantes de
+cultura alemã (usado aqui como substituto de ascendência
+alemã). Um estudo avaliando descendentes de alemães na
+região do Vale do Itajaí mostrou que descendentes da primeira
+geração de alemães não apresentaram diferenças significativas
+em termos de fatores de risco cardiovascular em comparação
+a imigrantes alemães, exceto pelo colesterol HDL, que foi mais
+alto na população alemã, embora essa fração não tenha sido
+analisada em nossa população.35
+Não existem dados na literatura que indicam diferenças
+significativas no número de placas ateroscleróticas. De fato,
+não observamos diferenças significativas entre os grupos com
+1-2 placas e grupos com três ou mais placas na artéria carótida
+que pudessem influenciar decisões clínicas.
+O estudo de fatores de risco e de características
+prevalentes na associação com doença aterosclerótica pode
+levar a medidas de prevenção e de controle para combater
+seus efeitos deletérios. Mas, é importante mencionar
+que esse estudo pode ter algumas limitações. Por ser um
+estudo transversal, ele não define uma relação de causa
+e efeito entre as variáveis, somente levantando hipóteses
+que requerem análises novas e mais profundas em estudos
+longitudinais para confirmá-las. Vale ainda ressaltar o fato
+de algumas informações clínicas terem sido autorrelatadas
+pela população em análise, e o alto número de perdas e
+recusas, que podem gerar vieses. Esse fator pode ser mais
+bem analisado no futuro por revisões de prontuários médicos
+e por outros testes confirmatórios.
+
+Conclusões
+Houve uma associação entre a presença de fatores de risco
+cardiovasculares e a presença de placas na artéria carótida nos
+participantes. As placas foram mais prevalentes nos indivíduos
+hipertensos, dislipidêmicos, diabéticos, tabagistas, sedentários e
+
+obesos. Quanto às características da população, as placas eram
+mais prevalentes em homens, com idade entre 60 e 79 anos,
+de cultura alemã, analfabeto, da classe socioeconômica A1/
+A2 e com baixo consumo de álcool. As placas ateroscleróticas
+eram mais prevalentes entre os participantes com valores de
+alto risco para CC, RCQ e RCA.
+Esses achados destacam a importância de se identificar
+grupos de risco que se beneficiariam mais consistentemente
+de protocolos de rastreamento com bom custo-benefício,
+sem serem expostos desnecessariamente a procedimentos
+invasivos que pudessem levar a danos físicos e psicológicos.
+Assim, estudos longitudinais e delineamentos experimentais
+são necessários para melhorar a avaliação de causalidade e
+progressão de risco.
+
+Contribuição dos autores
+Concepção e desenho da pesquisa: Zimmermann FB,
+Zimmermann SL, Zimmermann MB, Beraldi EK, Rocha MCF,
+Zabot BPO, Starke S, Helena ETS, Markus MRP; Obtenção de
+dados: Zimmermann FB, Zimmermann MB, Beraldi EK, Rocha
+MCF; Análise e interpretação dos dados e Análise estatística:
+Helena ETS; Obtenção de financiamento: Zimmermann
+FB, Helena ETS; Redação do manuscrito: Zimmermann FB,
+Zimmermann SL, Zimmermann MB, Beraldi EK, Rocha MCF,
+Zabot BPO, Helena ETS, Markus MRP; Revisão crítica do
+manuscrito quanto ao conteúdo: Zimmermann SL, Zabot
+BPO, Starke S, Markus MRP.
+Potencial conflito de interesse
+Não há conflito com o presente artigo.
+Fontes de financiamento
+O presente estudo não teve fontes de financiamento
+externas.
+Vinculação acadêmica
+Este artigo é parte de tese de graduação de Fernanda Burger
+Zimmermann pela Universidade Regional de Blumenau.
+Aprovação ética e consentimento informado
+Este estudo foi aprovado pelo Comitê de Ética da Fundação
+Universidade Regional de Blumenau sob o número de
+protocolo 2.969.842. Todos os procedimentos envolvidos
+nesse estudo estão de acordo com a Declaração de Helsinki
+de 1975, atualizada em 2013. O consentimento informado
+foi obtido de todos os participantes incluídos no estudo.
+
+Referências
+1.
+
+Bonacina P, Azeredo SB. Inflammatory Mechanisms Promoting
+Atherosclerotic Disease: A Systematic Review. Rev Multidiscipl Saúde.
+2021;2(1):18. doi: 10.51161/rems/671.
+
+2.
+
+Laurenti R. Aterosclerose: Importância, Aspectos Epidemiológicos. Estudo
+Central do Problema no Brasil e em São Paulo. Cardiologia. 1987;1:16-9.
+
+3.
+
+Ross R. Atherosclerosis--An Inflammatory Disease. N Engl J Med.
+1999;340(2):115-26. doi: 10.1056/NEJM199901143400207.
+
+4.
+
+Bots ML, Hoes AW, Koudstaal PJ, Hofman A, Grobbee DE. Common Carotid
+Intima-Media Thickness and Risk of Stroke and Myocardial Infarction: The
+Rotterdam Study. Circulation. 1997;96(5):1432-7. doi: 10.1161/01.cir.96.5.1432.
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+8
+
+Zimmermann et al.
+Fatores de Risco e Placas nas Artérias Carótidas
+
+Artigo Original
+5.
+
+Précoma DB, Oliveira GMM, Simão AF, Dutra OP, Coelho OR, Izar MCO, et
+al. Updated Cardiovascular Prevention Guideline of the Brazilian Society of
+Cardiology - 2019. Arq Bras Cardiol. 2019;113(4):787-891. doi: 10.5935/
+abc.20190204.
+
+6.
+
+Freitas P, Piccinato CE, Martins WP, Mauad F Filho. Carotid Atherosclerosis
+Evaluated by Doppler Ultrasound: Association with Risk Factors and
+Systemic Arterial Disease. J Vasc Bras. 2008;7(4):298-307. doi: 10.1590/
+S1677-54492009005000001.
+
+22. Del Brutto OH, Del Brutto VJ, Mera RM, Costa AF, Peñaherrera R,
+Peñaherrera E, et al. The Association between Aortic Arterial Stiffness, Carotid
+Intima-Media Thickness and Carotid Plaques in Community-Dwelling Older
+Adults: A Population-Based Study. Vascular. 2020;28(4):405-12. doi:
+10.1177/1708538120913738.
+
+7.
+
+Dias JL, Freitas F, Aragão IPB, Almeida RS. Epidemiological Analysis of Acute
+Myocardial Infarction and Other Ischemic Heart Diseases in Brazil in the last
+10 years. Rev Saúde. 2022;13(1):73-7. doi 10.21727/rs.v13i1.2844.
+
+23. Petisco ACGP. Prevalence of Subclinical Atherosclerosis in Postmenopausal
+Women with Low and Intermediate Cardiovascular Risk According to the
+Framingham Score [Thesis]. São Paulo: University of São Paulo; 2014.
+
+8.
+
+Santos-Neto PJ, Sena-Santos EH, Meireles DP, Bittencourt MS, Santos
+IS, Bensenor IM, et al. Association of Carotid Plaques and Common
+Carotid Intima-media Thickness with Modifiable Cardiovascular Risk
+Factors. J Stroke Cerebrovasc Dis. 2021;30(5):105671. doi: 10.1016/j.
+jstrokecerebrovasdis.2021.105671.
+
+24. Maas AH, Appelman YE. Gender Differences in Coronary Heart Disease.
+Neth Heart J. 2010;18(12):598-602. doi: 10.1007/s12471-010-0841-y.
+
+Aguiar GB, Caldas JGMP. Carotid Artery Atherosclerotic Profile as a
+Progression Marker for Cardiovascular Disease. Arq Bras Cardiol.
+2021;116(4):734-5. doi: 10.36660/abc.20210229.
+
+26. Camelo LV, Giatti L, Chor D, Griep RH, Benseñor IM, Santos IS, et al.
+Associations of Life Course Socioeconomic Position and Job Stress with
+Carotid Intima-Media Thickness. The Brazilian Longitudinal Study of
+Adult Health (ELSA-Brasil). Soc Sci Med. 2015;141:91-9. doi: 10.1016/j.
+socscimed.2015.07.032.
+
+9.
+
+10. Faludi AA, Izar MCO, Saraiva JFK, Chacra APM, Bianco HT, Afiune A Neto, et al.
+Atualização da Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose –
+2017. Arq Bras Cardiol. 2017;109(2 Supl 1):1-76. doi: 10.5935/abc.20170121.
+11. Sociedade Brasileira de Diabetes. Diretriz Brasileira de Diabetes. São Paulo:
+Sociedade Brasileira de Diabetes; 2022.
+12. Helena ETS, Sousa CA, Silveira JLGC, Nunes CRO, Azevedo LC, Nilson LG,
+et al. Study of Health in Pomerode (SHIP-Brazil): Aims, Methodological
+Issues and Descriptive Results. SciELO Preprints. 2023;1-33. doi: 10.1590/
+SciELOPreprints.7276.
+13. Maltzahn P. The German Language as a Defining Feature of Ethnic Identity
+in Pomerode. Pandaemonium. 2018;21(33):113–35. doi: 10.11606/198288372133113.
+14. Associação Brasileira de Empresas de Pesquisa. Critério de Classificação
+Econômica Brasil [Internet]. São Paulo: ABEP; 2014 [cited 2025 Mar 17].
+Available from: http://www.abep.org/.
+15. Meneses-Gaya C, Zuardi AW, Loureiro SR, Crippa JAS. Alcohol Use
+Disorders Identification Test (AUDIT): An Updated Systematic Review
+of Psychometric Properties. Psychol Neurosci. 2009;2(1):83-97. doi:
+10.3922/j.psns.2009.1.12.
+16. Matsudo S, Araújo T, Matsudo V, Andrade D, Andrade E, Oliveira LC, et al.
+International Physical Activity Questionnaire (IPAQ): Study of Validity and
+Reability in Brazil. Rev Bras Ativ Fis Saude. 2001;6(2):5-18.
+17. Johri AM, Nambi V, Naqvi TZ, Feinstein SB, Kim ESH, Park MM, et al.
+Recommendations for the Assessment of Carotid Arterial Plaque by
+Ultrasound for the Characterization of Atherosclerosis and Evaluation of
+Cardiovascular Risk: From the American Society of Echocardiography. J Am
+Soc Echocardiogr. 2020;33(8):917-33. doi: 10.1016/j.echo.2020.04.021.
+18. Cantú-Brito C, Rodríguez-Saldaña J, Reynoso-Marenco MT, MarmolejoHenderson R, Barinagarrementeria-Aldatz F. Cardiovascular Risk Factors
+and Carotid Atherosclerosis Detected by Ultrasonography. Salud Publica
+Mex. 1999;41(6):452-9.
+19. Santos EHS. Associação entre Escore de Saúde Cardiovascular e Placas nas
+Carótidas. Análise Transversal do Estudo Longitudinal da Saúde do Adulto
+(ELSA-Brasil) [Thesis]. São Paulo: Universidade de São Paulo; 2021.
+20. Sturlaugsdottir R, Aspelund T, Bjornsdottir G, Sigurdsson S, Thorsson B,
+Eiriksdottir G, et al. Prevalence and Determinants of Carotid Plaque in the
+Cross-Sectional REFINE-Reykjavik Study. BMJ Open. 2016;6(11):1-10.
+doi:10.1136/bmjopen-2016-012457.
+
+21. Ribeiro MS, Matos EM Jr. Aterosclerosis Carotide: Epidemiological
+Profile of Carriers of Disease in the South of Maranhão. Rev Educ Saúde.
+2020;8(1):136-41.
+
+25. Lopes T, Alves A, Pereira A. Avaliação da Prevalência de Aterosclerose
+Carotídea na Cidade de Castelo Branco. Rev Cardiopul. 2015;(1):40-7.
+
+27. Lima TR, Silva DAS, Giehl MWC, D’Orsi E, González-Chica DA.
+Clusters of Cardiometabolic Risk Factors and Their Association with
+Atherosclerosis and Chronic Inflammation among Adults and Elderly in
+Florianópolis, Southern Brazil. Arq Bras Cardiol. 2021;117(1):39-48.
+doi: 10.36660/abc.20200230.
+28. Herder M, Johnsen SH, Arntzen KA, Mathiesen EB. Risk Factors for
+Progression of Carotid Intima-Media Thickness and Total Plaque Area: A
+13-Year Follow-Up Study: The Tromsø Study. Stroke. 2012;43(7):1818-23.
+doi: 10.1161/STROKEAHA.111.646596.
+29. Rundek T, Gardener H, Della-Morte D, Dong C, Cabral D, Tiozzo E, et al. The
+Relationship between Carotid Intima-Media Thickness and Carotid Plaque
+in the Northern Manhattan Study. Atherosclerosis. 2015;241(2):364-70.
+doi: 10.1016/j.atherosclerosis.2015.05.027.
+30. Barroso WKS, Rodrigues CIS, Bortolotto LA, Mota-Gomes MA, Brandão AA,
+Feitosa ADM, et al. Diretrizes Brasileiras de Hipertensão Arterial – 2020. Arq
+Bras Cardiol. 2021;116(3):516-658. doi: 10.36660/abc.20201238.
+31. Witteman JC, Grobbee DE, Valkenburg HA, van Hemert AM, Stijnen T,
+Hofman A. Cigarette Smoking and the Development and Progression
+of Aortic Atherosclerosis. A 9-Year Population-Based Follow-Up Study
+in Women. Circulation. 1993;88(5 Pt 1):2156-62. doi: 10.1161/01.
+cir.88.5.2156.
+32. Howard G, Wagenknecht LE, Burke GL, Diez-Roux A, Evans GW, McGovern
+P, et al. Cigarette Smoking and Progression of Atherosclerosis: The
+Atherosclerosis Risk in Communities (ARIC) Study. JAMA. 1998;279(2):11924. doi: 10.1001/jama.279.2.119.
+33. Bentzon JF, Otsuka F, Virmani R, Falk E. Mechanisms of Plaque Formation
+and Rupture. Circ Res. 2014;114(12):1852-66. doi: 10.1161/
+CIRCRESAHA.114.302721.
+34. Schminke U, Luedemann J, Berger K, Alte D, Mitusch R, Wood WG,
+et al. Association between Alcohol Consumption and Subclinical
+Carotid Atherosclerosis: The Study of Health in Pomerania. Stroke.
+2005;36(8):1746-52. doi: 10.1161/01.STR.0000173159.65228.68.
+35. Zimmermann SL, Moretti MA, Vianna CB, Mansur AP, Starke S, Cesar LAM.
+Ischemic Heart Disease in German Immigrants and Their Descendants in
+a Region of Southern Brazil: A Comparison of Initial Symptoms Reported
+between two Generations. Int J Cardiovasc Sci 2021;35(1):48-55. doi:
+10.36660/ijcs.20200353.
+
+Este é um artigo de acesso aberto distribuído sob os termos da licença de atribuição pelo Creative Commons
+
+9
+
+Arq Bras Cardiol. 2025; 122(3):e20240546
+
+
