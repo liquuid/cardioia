@@ -4,6 +4,10 @@ Nome: Fernando Henrique Rodrigues da Silva
 
 RA: rm559660
 
+A ideia do projeto é criar uma ferramenta para auxiliar médicos cardiologistas nos diagnósticos de doenças cardio-vasculares, se baseando em imagens de Eletro Cardiogramas e possivelmente em chapas radiográficas do torax. Com o auxilio de analise complementar de Natural Language Processing, coletando dados de artigos cientificos e os comparando com o modelo e os dados do paciente seria possivel aproximas o diagnóstico ao mais próximo possivel da realidade do paciente. 
+
+Em um primeiro momento o modelo avalia os dados clinicos do paciente e compara com uma base de dados pública (Dados numéricos) que contem um recorde demográfico de pessoas com diagnóstico de doenças cardiacas. Em um segundo momento o exame de ECG e o Raio X do torax do paciente poderá ser submetido ao modelo, que vai comparar os dados do paciente com os de outros pacientes já diagnosticados, agilizando a avaliação final do médico do paciente. 
+
 # Dados numéricos
 
 Os dados numéricos, aproximadamente 1020 entradas, cobrem várias áreas de interesse para determinar a saúde de individuos de várias faixas etárias, histórico de doenças anteriores etc. Mais informações sobre os tipos de dado e sua legenda estão disponíveis na sessão abaixo.
